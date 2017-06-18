@@ -16,9 +16,10 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 
+from .views import (
+    add_log,    
+    )
+
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    #django-allauth
-    url(r'^accounts/', include('allauth.urls')),
-    url(r'^log/', include('log.urls')),
+    url(r'^add/$', add_log),
 ]

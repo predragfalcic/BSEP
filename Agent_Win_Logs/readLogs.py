@@ -11,12 +11,23 @@ import winerror
 import string
 import re
 from LogClass import LogItem
+import time
+import socket
+import requests
+from requests.exceptions import ConnectionError
+import json
+import platform
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 # ----------------------------------------------------------------------
 def getAllEvents(server, logtypes, basePath):
     """
     """
     listaLogova = []
+    lista = []
+    print "usao je ovde"
     if not server:
         serverName = "localhost"
     else:
@@ -98,7 +109,7 @@ def getEventLogs(server, logtype, logPath):
                     evt_type = "unknown"
                 else:
                     evt_type = str(evt_dict[ev_obj.EventType])
-
+                
                 log.write("\nEvent Date/Time:  %s\n" % the_time)
                 log.write("\nEvent ID / Type:  %s / %s\n" % (evt_id, evt_type))
                 log.write("\nRecord #%s\n" % record)
@@ -109,7 +120,7 @@ def getEventLogs(server, logtype, logPath):
                 log.write("\n\n")
 
                 #stampanje logova i svih njihovih informacija
-                print string.join((the_time,computer,cat,evt_id,evt_type,msg[0:25]), ' : ')
+                # print string.join((the_time,computer,cat,evt_id,evt_type,msg[0:25]), ' : ')
 
                 #lista sa objektima Logitem klase
                 l = LogItem(the_time, evt_id, computer, cat, msg)
@@ -125,6 +136,77 @@ def getEventLogs(server, logtype, logPath):
 
 if __name__ == "__main__":
     listaLogova = []
+
+    URL = "http://localhost:8000/log/add/"
+    
     server = None  # None = local machine
     logTypes = ["Application"]
-    listaLogova = getAllEvents(server, logTypes, "C:\Users\Nemanja\Desktop\Logovi\SkladisteLogova")
+    listaLogova = getAllEvents(server, logTypes, "C:\Users\Privat\Desktop\Logovi\SkladisteLogova")
+    poslednji_log = listaLogova[-1]
+    while True:
+        listaLogova = getAllEvents(server, logTypes, "C:\Users\Privat\Desktop\Logovi\SkladisteLogova")
+        novi_poslednji_log = listaLogova[-1]
+        if set(str(poslednji_log.dateTime).split(' ')) == set(str(novi_poslednji_log.dateTime).split(' ')):
+            print "NEMA NOVIH LOGOVA"
+
+            if "WARNING" in novi_poslednji_log.category:
+                logType = "WARNING"
+            elif "CRITICAL" in novi_poslednji_log.category:
+                logType = "CRITICAL"
+            elif "ERROR" in novi_poslednji_log.category or "Error" in novi_poslednji_log.category:
+                logType = "ERROR"
+            else:
+                logType = "INFO"
+
+            jsonData = {'Date':novi_poslednji_log.dateTime,'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()}
+
+            print json.dumps(jsonData)
+                    
+            try:
+                r = requests.post(URL, data=json.dumps(jsonData))
+            except ConnectionError as e:
+                print e
+        else:
+            print "NOVI LOG. SALJI GA SERVERU"
+
+            if "WARNING" in novi_poslednji_log.category:
+                logType = "WARNING"
+            elif "CRITICAL" in novi_poslednji_log.category:
+                logType = "CRITICAL"
+            elif "ERROR" in novi_poslednji_log.category or "Error" in novi_poslednji_log.category:
+                logType = "ERROR"
+            else:
+                logType = "INFO"
+
+            jsonData = {'Date':novi_poslednji_log.dateTime,'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()}
+
+            print json.dumps(jsonData)
+                    
+            try:
+                r = requests.post(URL, data=json.dumps(jsonData))
+            except ConnectionError as e:
+                print e
+
+            poslednji_log = novi_poslednji_log
+                        
+        time.sleep(20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
