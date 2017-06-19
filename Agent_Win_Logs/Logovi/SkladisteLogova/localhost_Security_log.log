@@ -1,0 +1,4447 @@
+
+ None Log of Security Events 
+--------------------
+ Created: Mon Jun 19 19:45:57 2017
+
+--------------------
+--------------------
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27802
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27801
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27800
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27799
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27798
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27797
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27796
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27795
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27794
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27793
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27792
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27791
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27790
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27789
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27788
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27787
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27786
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27785
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27784
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27783
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27782
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27781
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27780
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27779
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:25
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27778
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:21
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27777
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:21
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27776
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:11
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27775
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:11
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27774
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:01
+
+Event ID / Type:  4799 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27773
+
+Source: Microsoft-Windows-Security-Auditing
+
+Eine sicherheitsaktivierte lokale Gruppenmitgliedschaft wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Gruppe:
+	Sicherheits-ID:		S-1-5-32-544
+	Gruppenname:		Administratoren
+	Gruppendomäne:		Builtin
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:00
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27772
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x237f58a1
+
+Berechtigungen:		SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:00
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27771
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1843
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x237f58c2
+	Verknüpfte Anmelde-ID:		0x237f58a1
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:00
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27770
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x237f58a1
+	Verknüpfte Anmelde-ID:		0x237f58c2
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:40:00
+
+Event ID / Type:  4648 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27769
+
+Source: Microsoft-Windows-Security-Auditing
+
+Anmeldeversuch mit expliziten Anmeldeinformationen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Konto, dessen Anmeldeinformationen verwendet wurden:
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Zielserver:
+	Zielservername:	localhost
+	Weitere Informationen:	localhost
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Netzwerkadresse:	127.0.0.1
+	Port:			0
+
+Dieses Ereignis wird bei einem Anmeldeversuch durch einen Prozess generiert, wenn ausdrücklich die Anmeldeinformationen des Kontos angegeben werden.  Dies ist normalerweise der Fall in Batch-Konfigurationen, z. B. bei geplanten Aufgaben oder wenn der Befehl "runas" verwendet wird.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:39:40
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27768
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 19:39:40
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27767
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:58
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27766
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-90-0-5
+	Kontoname:		DWM-5
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x20608f26
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:58
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27765
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-90-0-5
+	Kontoname:		DWM-5
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x20608f43
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:56
+
+Event ID / Type:  4647 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27764
+
+Source: Microsoft-Windows-Security-Auditing
+
+Benutzerinitiierte Abmeldung:
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Dieses Ereignis wird generiert, wenn eine Abmeldung initiiert wird. Es kann keine weitere benutzerinitiierte Aktivität erfolgen. Dieses Ereignis kann als Abmeldeereignis interpretiert werden.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27763
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-90-0-6
+	Kontoname:		DWM-6
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x237b9f92
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27762
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-90-0-6
+	Kontoname:		DWM-6
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x237b9f6d
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege
+			SeImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27761
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1842
+	Token mit erhöhten Rechten:		%%1843
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-90-0-6
+	Kontoname:		DWM-6
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x237b9f92
+	Verknüpfte Anmelde-ID:		0x237b9f6d
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x2828
+	Prozessname:		C:\Windows\System32\winlogon.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27760
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1842
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-90-0-6
+	Kontoname:		DWM-6
+	Kontodomäne:		Window Manager
+	Anmelde-ID:		0x237b9f6d
+	Verknüpfte Anmelde-ID:		0x237b9f92
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x2828
+	Prozessname:		C:\Windows\System32\winlogon.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  4648 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27759
+
+Source: Microsoft-Windows-Security-Auditing
+
+Anmeldeversuch mit expliziten Anmeldeinformationen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Konto, dessen Anmeldeinformationen verwendet wurden:
+	Kontoname:		DWM-6
+	Kontodomäne:		Window Manager
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Zielserver:
+	Zielservername:	localhost
+	Weitere Informationen:	localhost
+
+Prozessinformationen:
+	Prozess-ID:		0x2828
+	Prozessname:		C:\Windows\System32\winlogon.exe
+
+Netzwerkinformationen:
+	Netzwerkadresse:	-
+	Port:			-
+
+Dieses Ereignis wird bei einem Anmeldeversuch durch einen Prozess generiert, wenn ausdrücklich die Anmeldeinformationen des Kontos angegeben werden.  Dies ist normalerweise der Fall in Batch-Konfigurationen, z. B. bei geplanten Aufgaben oder wenn der Befehl "runas" verwendet wird.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:22
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27758
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x1c34
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:21
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27757
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x13f4
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:39:25
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27756
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:39:25
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27755
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:33:08
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27754
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:33:08
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27753
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:28:45
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27752
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:28:45
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27751
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:28:30
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27750
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:28:30
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27749
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:23:58
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27748
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x2ec4
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:23:56
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27747
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x1464
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:22:38
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27746
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x3328
+	Prozessname:		C:\Program Files\Git\usr\bin\mintty.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:21
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27745
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:21
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27744
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:39:21
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27743
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:39:21
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27742
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:24:20
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27741
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:24:20
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27740
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:17:53
+
+Event ID / Type:  4799 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27739
+
+Source: Microsoft-Windows-Security-Auditing
+
+Eine sicherheitsaktivierte lokale Gruppenmitgliedschaft wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Gruppe:
+	Sicherheits-ID:		S-1-5-32-551
+	Gruppenname:		Sicherungs-Operatoren
+	Gruppendomäne:		Builtin
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:17:53
+
+Event ID / Type:  4799 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27738
+
+Source: Microsoft-Windows-Security-Auditing
+
+Eine sicherheitsaktivierte lokale Gruppenmitgliedschaft wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Gruppe:
+	Sicherheits-ID:		S-1-5-32-544
+	Gruppenname:		Administratoren
+	Gruppendomäne:		Builtin
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 13:55:27
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27737
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x51c
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 13:55:22
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27736
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x2a9c
+	Prozessname:		C:\Program Files\Git\usr\bin\sh.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 13:53:32
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27735
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0x18a0
+	Prozessname:		C:\Program Files\Git\usr\bin\mintty.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27734
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x20e03dd3
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27733
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x20e03df4
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27732
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x20e03dd3
+
+Berechtigungen:		SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27731
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1843
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x20e03df4
+	Verknüpfte Anmelde-ID:		0x20e03dd3
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27730
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x20e03dd3
+	Verknüpfte Anmelde-ID:		0x20e03df4
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:49:53
+
+Event ID / Type:  4648 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27729
+
+Source: Microsoft-Windows-Security-Auditing
+
+Anmeldeversuch mit expliziten Anmeldeinformationen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Konto, dessen Anmeldeinformationen verwendet wurden:
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Zielserver:
+	Zielservername:	localhost
+	Weitere Informationen:	localhost
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Netzwerkadresse:	127.0.0.1
+	Port:			0
+
+Dieses Ereignis wird bei einem Anmeldeversuch durch einen Prozess generiert, wenn ausdrücklich die Anmeldeinformationen des Kontos angegeben werden.  Dies ist normalerweise der Fall in Batch-Konfigurationen, z. B. bei geplanten Aufgaben oder wenn der Befehl "runas" verwendet wird.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:12:20
+
+Event ID / Type:  4798 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27728
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die lokale Gruppenmitgliedschaft eines Benutzers wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Benutzer:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+
+Prozessinformationen:
+	Prozess-ID:		0xfcc
+	Prozessname:		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:24
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27727
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:24
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27726
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:24
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27725
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:24
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27724
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:24
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27723
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27722
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x209bcd19
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4634 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27721
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde abgemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x209bcd3c
+
+Anmeldetyp:			2
+
+Dieses Ereignis wird generiert, wenn eine Anmeldesitzung zerstört wird. Es kann anhand des Wertes der Anmelde-ID positiv mit einem Anmeldeereignis korreliert werden. Anmelde-IDs sind nur zwischen Neustarts auf demselben Computer eindeutig.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27720
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x209bcd19
+
+Berechtigungen:		SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27719
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1843
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x209bcd3c
+	Verknüpfte Anmelde-ID:		0x209bcd19
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27718
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x209bcd19
+	Verknüpfte Anmelde-ID:		0x209bcd3c
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 12:08:02
+
+Event ID / Type:  4648 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27717
+
+Source: Microsoft-Windows-Security-Auditing
+
+Anmeldeversuch mit expliziten Anmeldeinformationen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Konto, dessen Anmeldeinformationen verwendet wurden:
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Zielserver:
+	Zielservername:	localhost
+	Weitere Informationen:	localhost
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Netzwerkadresse:	127.0.0.1
+	Port:			0
+
+Dieses Ereignis wird bei einem Anmeldeversuch durch einen Prozess generiert, wenn ausdrücklich die Anmeldeinformationen des Kontos angegeben werden.  Dies ist normalerweise der Fall in Batch-Konfigurationen, z. B. bei geplanten Aufgaben oder wenn der Befehl "runas" verwendet wird.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27716
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27715
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27714
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27713
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27712
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27711
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27710
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27709
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27708
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27707
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27706
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27705
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27704
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27703
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27702
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27701
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27700
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27699
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27698
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27697
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27696
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27695
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27694
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27693
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27692
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27691
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	UpdatusUser
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27690
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Privat
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27689
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	home
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27688
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Gast
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27687
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	DefaultAccount
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:50
+
+Event ID / Type:  4797 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27686
+
+Source: Microsoft-Windows-Security-Auditing
+
+Es wurde versucht, das Vorhandensein eines leeren Kennworts für ein Konto zu prüfen.
+
+Betreff:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Zusätzliche Informationen:
+	Arbeitsstation des Aufrufers:	HADBELONIC
+	Name des Zielkontos:	Administrator
+	Domäne des Zielkontos:	HADBELONIC
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:36
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27685
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:36
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27684
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:30
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27683
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+
+Berechtigungen:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:30
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27682
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		5
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		SYSTEM
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e7
+	Verknüpfte Anmelde-ID:		0x0
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x320
+	Prozessname:		C:\Windows\System32\services.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	
+	Quellnetzwerkadresse:	-
+	Quellport:		-
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		Advapi  
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  4799 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27681
+
+Source: Microsoft-Windows-Security-Auditing
+
+Eine sicherheitsaktivierte lokale Gruppenmitgliedschaft wurde aufgezählt.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Gruppe:
+	Sicherheits-ID:		S-1-5-32-544
+	Gruppenname:		Administratoren
+	Gruppendomäne:		Builtin
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  4672 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27680
+
+Source: Microsoft-Windows-Security-Auditing
+
+Einer neuen Anmeldung wurden besondere Rechte zugewiesen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350c7
+
+Berechtigungen:		SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27679
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1843
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350e8
+	Verknüpfte Anmelde-ID:		0x206350c7
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  4624 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27678
+
+Source: Microsoft-Windows-Security-Auditing
+
+Ein Konto wurde erfolgreich angemeldet.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+
+Anmeldeinformationen:
+	Anmeldetyp:		2
+	Eingeschränkter Administratormodus:	-
+	Virtuelles Konto:		%%1843
+	Token mit erhöhten Rechten:		%%1842
+
+Identitätswechselebene:		%%1833
+
+Neue Anmeldung:
+	Sicherheits-ID:		S-1-5-21-1357950317-1809519924-948231572-1008
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-ID:		0x206350c7
+	Verknüpfte Anmelde-ID:		0x206350e8
+	Netzwerk-Kontoname:	-
+	Netzwerk-Kontodomäne:	-
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Arbeitsstationsname:	HADBELONIC
+	Quellnetzwerkadresse:	127.0.0.1
+	Quellport:		0
+
+Detaillierte Authentifizierungsinformationen:
+	Anmeldeprozess:		User32 
+	Authentifizierungspaket:	Negotiate
+	Übertragene Dienste:	-
+	Paketname (nur NTLM):	-
+	Schlüssellänge:		0
+
+Dieses Ereignis wird beim Erstellen einer Anmeldesitzung generiert. Es wird auf dem Computer generiert, auf den zugegriffen wurde.
+
+Die Antragstellerfelder geben das Konto auf dem lokalen System an, von dem die Anmeldung angefordert wurde. Dies ist meistens ein Dienst wie der Serverdienst oder ein lokaler Prozess wie "Winlogon.exe" oder "Services.exe".
+
+Das Anmeldetypfeld gibt den jeweiligen Anmeldetyp an. Die häufigsten Typen sind 2 (interaktiv) und 3 (Netzwerk).
+
+Die Felder für die neue Anmeldung geben das Konto an, für das die neue Anmeldung erstellt wurde, d. h. das angemeldete Konto.
+
+Die Netzwerkfelder geben die Quelle einer Remoteanmeldeanforderung an. Der Arbeitsstationsname ist nicht immer verfügbar und kann in manchen Fällen leer bleiben.
+
+Das Feld für die Identitätswechselebene gibt an, in welchem Umfang ein Prozess in der Anmeldesitzung einen Identitätswechsel vornehmen kann.
+
+Die Felder für die Authentifizierungsinformationen enthalten detaillierte Informationen zu dieser speziellen Anmeldeanforderung.
+	- Die Anmelde-GUID ist ein eindeutiger Bezeichner, der verwendet werden kann, um dieses Ereignis mit einem KDC-Ereignis zu korrelieren.
+	- Die übertragenen Dienste geben an, welche Zwischendienste an der Anmeldeanforderung beteiligt waren.
+	- Der Paketname gibt das in den NTLM-Protokollen verwendete Unterprotokoll an.
+	- Die Schlüssellänge gibt die Länge des generierten Sitzungsschlüssels an. Wenn kein Sitzungsschlüssel angefordert wurde, ist dieser Wert 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  4648 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27677
+
+Source: Microsoft-Windows-Security-Auditing
+
+Anmeldeversuch mit expliziten Anmeldeinformationen.
+
+Antragsteller:
+	Sicherheits-ID:		S-1-5-18
+	Kontoname:		HADBELONIC$
+	Kontodomäne:		VBS
+	Anmelde-ID:		0x3e7
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Konto, dessen Anmeldeinformationen verwendet wurden:
+	Kontoname:		Privat
+	Kontodomäne:		HADBELONIC
+	Anmelde-GUID:		{00000000-0000-0000-0000-000000000000}
+
+Zielserver:
+	Zielservername:	localhost
+	Weitere Informationen:	localhost
+
+Prozessinformationen:
+	Prozess-ID:		0x238
+	Prozessname:		C:\Windows\System32\svchost.exe
+
+Netzwerkinformationen:
+	Netzwerkadresse:	127.0.0.1
+	Port:			0
+
+Dieses Ereignis wird bei einem Anmeldeversuch durch einen Prozess generiert, wenn ausdrücklich die Anmeldeinformationen des Kontos angegeben werden.  Dies ist normalerweise der Fall in Batch-Konfigurationen, z. B. bei geplanten Aufgaben oder wenn der Befehl "runas" verwendet wird.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:11
+
+Event ID / Type:  4616 / EVENTLOG_AUDIT_SUCCESS
+
+Record #27676
+
+Source: Microsoft-Windows-Security-Auditing
+
+Die Systemzeit wurde geändert.
+	
+Antragsteller:
+	Sicherheits-ID:		S-1-5-19
+	Kontoname:		Lokaler Dienst
+	Kontodomäne:		NT-AUTORITÄT
+	Anmelde-ID:		0x3e5
+
+Prozessinformationen:
+	Prozess-ID:	0x4c
+	Name:		C:\Windows\System32\svchost.exe
+
+Vorherige Zeit:		2017-06-19T09:05:11.042266600Z
+Neue Zeit:		2017-06-19T09:05:11.041000000Z
+
+Dieses Ereignis wird generiert, wenn die Systemzeit geändert wird. Es ist normal, dass der mit Systemberechtigung ausgeführte Windows-Zeitdienst die Systemzeit regelmäßig ändert. Andere Änderungen der Systemzeit können darauf hinweisen, dass der Computer manipuliert wird.
+
+
+--------------------
+

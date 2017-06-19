@@ -167,12 +167,12 @@ if __name__ == "__main__":
     server = None  # None = local machine
     logTypes = ["System", "Security", "Application"]
     while True:
-        lista = getAllEvents(server, logTypes, "C:\Users\Privat\Desktop\Logovi\SkladisteLogova")
+        lista = getAllEvents(server, logTypes, "Logovi\SkladisteLogova")
         for i in lista:
             
             print "Provera " + i['log_type'] + " Logova\n"
 
-            fajl = "C:\Users\Privat\Desktop\Logovi\SkladisteLogova"
+            fajl = "Logovi\SkladisteLogova"
             
             poslednji_log = None
             try:
@@ -195,7 +195,7 @@ if __name__ == "__main__":
 
                 poslednji_log = novi_poslednji_log
 
-                fajl = "C:\Users\Privat\Desktop\Logovi\SkladisteLogova"
+                fajl = "Logovi\SkladisteLogova"
                 
                 writeToFile(fajl, poslednji_log, i['log_type'])
 
@@ -249,7 +249,7 @@ if __name__ == "__main__":
 
                 poslednji_log = novi_poslednji_log
 
-                fajl = "C:\Users\Privat\Desktop\Logovi\SkladisteLogova"
+                fajl = "Logovi\SkladisteLogova"
                 
                 writeToFile(fajl, poslednji_log, i['log_type'])
                             

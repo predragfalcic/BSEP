@@ -1,0 +1,1894 @@
+
+ None Log of Application Events 
+--------------------
+ Created: Mon Jun 19 19:45:58 2017
+
+--------------------
+--------------------
+
+Event Date/Time:  06/19/17 15:41:57
+
+Event ID / Type:  1530 / EVENTLOG_INFORMATION_TYPE
+
+Record #59545
+
+Source: Microsoft-Windows-User Profiles Service
+
+Es wurde festgestellt, dass Ihre Registrierungsdatei noch von anderen Anwendungen oder Diensten verwendet wird. Die Datei wird nun entladen. Die Anwendungen oder Dienste, die Ihre Registrierungsdatei anhalten, funktionieren anschließend u. U. nicht mehr ordnungsgemäß. Kein Benutzereingriff erforderlich. 
+
+ DETAIL - 
+ 12 user registry handles leaked from \Registry\User\S-1-5-21-1357950317-1809519924-948231572-1008:
+Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore\Parents
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\CommsAPHost\Test
+Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore
+Process 520 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl
+Process 2512 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Policies\Microsoft\Windows\DataCollection
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Main
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\ActiveSync\Partners
+Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore\Children
+Process 12176 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Security
+
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:57
+
+Event ID / Type:  6000 / EVENTLOG_INFORMATION_TYPE
+
+Record #59544
+
+Source: Wlclntfy
+
+Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das Benachrichtigungsereignis zu verarbeiten.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:57
+
+Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+
+Record #59543
+
+Source: igfxCUIService1.0.0.0
+
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u' Logoff: 5\n'.>
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:57
+
+Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+
+Record #59542
+
+Source: igfxCUIService1.0.0.0
+
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u' Logoff: Test\n'.>
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:54
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59541
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927141. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:54
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59540
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927141. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:53
+
+Event ID / Type:  9027 / EVENTLOG_INFORMATION_TYPE
+
+Record #59539
+
+Source: Desktop Window Manager
+
+Der Sitzungsport wurde vom Desktopfenster-Manager registriert.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:39
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59538
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB28D.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_5c72b740
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 0407f752-54f5-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:38
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59537
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB28D.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_67d2b29d
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 0407f752-54f5-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:41:37
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59536
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 0407f752-54f5-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:34:22
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59535
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER979.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_6af80e1d
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: ffdec191-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:34:21
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59534
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER979.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_5cb40989
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: ffdec191-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:34:21
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59533
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: ffdec191-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:30:17
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59532
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREABA.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_50c84b68
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 5b8ab3df-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:29:58
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59531
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREABA.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_5a37fae6
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 5b8ab3df-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 15:29:46
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59530
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 5b8ab3df-54f3-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:23
+
+Event ID / Type:  326 / EVENTLOG_INFORMATION_TYPE
+
+Record #59529
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul hat eine Datenbank angefügt (1, C:\Users\Privat\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\EntClientDb.edb). (Zeit=0 Sekunden)
+
+
+
+Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.016, [3] 0.000, [4] 0.015, [5] 0.000, [6] 0.000, [7] 0.000, [8] 0.000, [9] 0.000, [10] 0.000, [11] 0.000, [12] 0.000.
+
+Gespeicherter Cache: 0 0
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:23
+
+Event ID / Type:  105 / EVENTLOG_INFORMATION_TYPE
+
+Record #59528
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul hat eine neue Instanz (0) gestartet. (Zeit=0 Sekunden)
+
+
+
+Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.000, [3] 0.016, [4] 0.031, [5] 0.172, [6] 0.172, [7] 0.000, [8] 0.000, [9] 0.000, [10] 0.015.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:23
+
+Event ID / Type:  302 / EVENTLOG_INFORMATION_TYPE
+
+Record #59527
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul hat erfolgreich die Schritte zur Wiederherstellung abgeschlossen.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:22
+
+Event ID / Type:  301 / EVENTLOG_INFORMATION_TYPE
+
+Record #59526
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul gibt die Protokolldatei C:\Users\Privat\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\edb.log wieder.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:22
+
+Event ID / Type:  300 / EVENTLOG_INFORMATION_TYPE
+
+Record #59525
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul initiiert Schritte zur Wiederherstellung.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:54:22
+
+Event ID / Type:  102 / EVENTLOG_INFORMATION_TYPE
+
+Record #59524
+
+Source: ESENT
+
+Video.UI (2012) {8C266050-29D5-48C1-B939-1151EE1BED5B}: Das Datenbankmodul (10.00.14393.0000) startet eine neue Instanz (0).
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:40:35
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59523
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCBC3.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_7686d0b4
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 7c65cbec-54ec-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:40:34
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59522
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCBC3.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_6d32cbd2
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 7c65cbec-54ec-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:40:34
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59521
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 7c65cbec-54ec-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:31:13
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59520
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3A48.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_51663e10
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 2db4f778-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:31:12
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59519
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3A48.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_6e863a57
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 2db4f778-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:31:12
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59518
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 2db4f778-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:30:06
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59517
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER325D.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_7de13674
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 056ef418-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:30:05
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59516
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER325D.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_59d1326d
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 056ef418-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:30:05
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59515
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 056ef418-54eb-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:28:58
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59514
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2A53.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_5da42e3b
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: dd26918c-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:28:57
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59513
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2A53.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_59602a63
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: dd26918c-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:28:57
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59512
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: dd26918c-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:27:51
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59511
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2269.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_5dff2641
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: b4e0fbfa-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:27:50
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59510
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2269.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_6d572288
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: b4e0fbfa-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:27:50
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59509
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: b4e0fbfa-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:26:43
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59508
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER1A7E.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_5fee1e47
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 8c9aefce-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:26:42
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59507
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER1A7E.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_5c761aad
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 8c9aefce-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:26:42
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59506
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 8c9aefce-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:25:38
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59505
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126754551494, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER1320.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_611920dc
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 646740d1-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 4e7fc978848bb95aaec42a28c7ecc6ca
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:25:37
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59504
+
+Source: Windows Error Reporting
+
+Fehlerbucket 126755520909, Typ 5
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER216F.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_af48619578c5452df61ec189513978d479dc1db6_00000000_61191bea
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 164add35-54cf-11e7-8105-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: 1e171a019618409d6435504b13719a54
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:25:35
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59503
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER1320.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_e35fb3f18875fbf98e0eaa0d39c7c5dedf077f5_00000000_cab_5db91340
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 646740d1-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 14:25:35
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59502
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: TrustedInstaller FOD
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 646740d1-54ea-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:21:20
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59501
+
+Source: Bonjour Service
+
+Task Scheduling Error: m->NextScheduledSPRetry 1219
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:21:20
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59500
+
+Source: Bonjour Service
+
+Task Scheduling Error: m->NextScheduledEvent 1219
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:21:20
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59499
+
+Source: Bonjour Service
+
+Task Scheduling Error: Continuously busy for more than a second
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:15:40
+
+Event ID / Type:  15 / EVENTLOG_INFORMATION_TYPE
+
+Record #59498
+
+Source: SecurityCenter
+
+Der Windows Defender-Status wurde erfolgreich auf SECURITY_PRODUCT_STATE_ON aktualisiert.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:15:40
+
+Event ID / Type:  15 / EVENTLOG_INFORMATION_TYPE
+
+Record #59497
+
+Source: SecurityCenter
+
+Der Windows Defender-Status wurde erfolgreich auf SECURITY_PRODUCT_STATE_ON aktualisiert.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:10:08
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59496
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER216F.tmp.WERInternalMetadata.xml
+
+Diese Dateien befinden sich möglicherweise hier:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_af48619578c5452df61ec189513978d479dc1db6_00000000_cab_456a21bd
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 164add35-54cf-11e7-8105-ac220b7132a3
+Berichtstatus: 4
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:10:07
+
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
+
+Record #59495
+
+Source: Windows Error Reporting
+
+Fehlerbucket , Typ 0
+Ereignisname: WindowsUpdateFailure3
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
+
+Problemsignatur:
+P1: 10.0.14393.0
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
+
+Angefügte Dateien:
+
+Diese Dateien befinden sich möglicherweise hier:
+
+
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: 164add35-54cf-11e7-8105-ac220b7132a3
+Berichtstatus: 262144
+Bucket mit Hash: 
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:54
+
+Event ID / Type:  903 / unknown
+
+Record #59494
+
+Source: Software Protection Platform Service
+
+Der Softwareschutzdienst wurde beendet.
+
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:54
+
+Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
+
+Record #59493
+
+Source: Software Protection Platform Service
+
+Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-26T09:08:53Z geplant. Grund: RulesEngine.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:19
+
+Event ID / Type:  902 / unknown
+
+Record #59492
+
+Source: Software Protection Platform Service
+
+Der Softwareschutzdienst wurde gestartet.
+10.0.14393.0
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:19
+
+Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
+
+Record #59491
+
+Source: Software Protection Platform Service
+
+Der Softwareschutzdienst hat die Überprüfung des Lizenzierungsstatus abgeschlossen.
+Anwendungs-ID=55c92734-d682-4d71-983e-d6ec3f16059f
+Lizenzierungsstatus=
+1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+14: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: bbc56067-37f8-49dd-87b2-a418a9ba130a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: c082c31b-2c4f-4e07-94d7-9181fa802c4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:19
+
+Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
+
+Record #59490
+
+Source: Software Protection Platform Service
+
+Initialisierungsstatus für Dienstobjekte.
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:08:18
+
+Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
+
+Record #59489
+
+Source: Software Protection Platform Service
+
+Der Softwareschutzdienst wird gestartet.
+Parameter:caller=devicecensus.exe
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:44
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59488
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:44
+
+Event ID / Type:  2486 / EVENTLOG_ERROR_TYPE
+
+Record #59487
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Die App „Microsoft.MicrosoftStickyNotes_1.8.0.0_x64__8wekyb3d8bbwe+App“ wurde nicht innerhalb der vorgesehenen Zeit gestartet.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:23
+
+Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+
+Record #59486
+
+Source: igfxCUIService1.0.0.0
+
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Received Post Shell Event 5\n'.>
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:23
+
+Event ID / Type:  6000 / EVENTLOG_INFORMATION_TYPE
+
+Record #59485
+
+Source: Wlclntfy
+
+Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das Benachrichtigungsereignis zu verarbeiten.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:22
+
+Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+
+Record #59484
+
+Source: igfxCUIService1.0.0.0
+
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Logon: 5\n'.>
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:22
+
+Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+
+Record #59483
+
+Source: igfxCUIService1.0.0.0
+
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Log on event received User1\n'.>
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:21
+
+Event ID / Type:  6003 / EVENTLOG_INFORMATION_TYPE
+
+Record #59482
+
+Source: Wlclntfy
+
+Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das kritische Benachrichtigungsereignis zu verarbeiten.
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:10
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59481
+
+Source: Bonjour Service
+
+Task Scheduling Error: m->NextScheduledSPRetry 46326578
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:10
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59480
+
+Source: Bonjour Service
+
+Task Scheduling Error: m->NextScheduledEvent 46326578
+
+
+--------------------
+
+
+Event Date/Time:  06/19/17 11:05:10
+
+Event ID / Type:  100 / EVENTLOG_ERROR_TYPE
+
+Record #59479
+
+Source: Bonjour Service
+
+Task Scheduling Error: Continuously busy for more than a second
+
+
+--------------------
+
