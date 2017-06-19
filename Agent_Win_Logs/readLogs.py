@@ -95,6 +95,7 @@ def getEventLogs(server, logtype, logPath):
                 # samo logovi koji nisu stariji od 8 sati
 
                 the_time = ev_obj.TimeGenerated.Format()  # '12/23/99 15:54:09'
+                
                 seconds = date2sec(the_time)
                 if seconds < begin_sec - 28800: break
 
@@ -158,7 +159,7 @@ if __name__ == "__main__":
             else:
                 logType = "INFO"
 
-            jsonData = {'Date':novi_poslednji_log.dateTime,'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()}
+            jsonData = {'evt_id': novi_poslednji_log.logId, 'Date':novi_poslednji_log.dateTime,'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()}
 
             print json.dumps(jsonData)
                     
