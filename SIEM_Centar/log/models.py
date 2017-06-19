@@ -12,4 +12,5 @@ class LogModel(models.Model):
     msg = models.TextField(max_length = 200)
     dateTime = models.DateTimeField()
     system = models.CharField(max_length = 30, default="Unknown")
+    fajl_logova = models.CharField(max_length = 30, default="Unknown")
     

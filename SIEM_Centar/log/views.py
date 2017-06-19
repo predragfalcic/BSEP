@@ -23,7 +23,8 @@ def add_log(request):
     final_date = format_date_time_for_db(data['Date'])
     LogModel.objects.create(Log_ident=data['evt_id'], dateTime=final_date,
                             category=data['Type'], compName=data['ComputerName'],
-                            msg=data['Message'], system=data['System'])
+                            msg=data['Message'], system=data['System'],
+                            fajl_logova=data['fajl_logova'])
     return HttpResponse("Got json data")
 
 
