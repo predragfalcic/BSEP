@@ -18,6 +18,12 @@ from requests.exceptions import ConnectionError
 import json
 import platform
 
+from Crypto.Hash import SHA256
+from Crypto.PublicKey import RSA
+from Crypto import Random
+
+import pickle
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -166,6 +172,30 @@ if __name__ == "__main__":
     
     server = None  # None = local machine
     logTypes = ["System", "Security", "Application"]
+
+    key = " "
+    public_key = " "
+    try:
+        # Ucitaj kljuceve iz fajla
+        key = pickle.load( open( "Logovi\SkladisteLogova\privateKey.p", "rb" ) )
+        public_key = pickle.load( open( "Logovi\SkladisteLogova\javniKljuc.p", "rb" ) )
+    except EOFError:
+        print "Nema kljuceva\n"
+
+    # Ukoliko ne postoje kljucevi kreiraj nove
+    if key is " " and public_key is " ":
+        print "Kljucevi ne postoje, generisem nove\n"
+        # Generisi private i public key
+        random_generator = Random.new().read
+        key = RSA.generate(1024, random_generator)
+        public_key = key.publickey()
+
+        # Upisujemo kljuc u fajl
+        pickle.dump( key, open( "Logovi\SkladisteLogova\privateKey.p", "wb" ) )
+        # Upisujemo javni kljuc u fajl
+        pickle.dump( public_key, open( "Logovi\SkladisteLogova\javniKljuc.p", "wb" ) )
+        
+                
     while True:
         lista = getAllEvents(server, logTypes, "Logovi\SkladisteLogova")
         for i in lista:
@@ -185,8 +215,44 @@ if __name__ == "__main__":
                 print poslednji_log
             else:
                 print "Log je None, preuzima se poslednji log iz liste logova\n"
+                print "Salje se na server\n"
                 poslednji_log = i['list'][-1]
+                if "WARNING" in poslednji_log.category:
+                    logType = "WARNING"
+                elif "ERROR" in poslednji_log.category or "Error" in poslednji_log.category:
+                    logType = "ERROR"
+                else:
+                    logType = "INFO"
 
+                # Text koji se hasuje
+                text = str(i['log_type']) + str(poslednji_log.logId) + str(poslednji_log.dateTime) + \
+                str(platform.system()) + str(logType) + str(poslednji_log.msg) + str(socket.gethostname())
+                # Hasovanje texta
+                hash = SHA256.new(text).digest()
+                # Potpisivanje hasha
+                signature = key.sign(hash, '')
+
+                jsonData = {'fajl_logova': i['log_type'], 'evt_id': poslednji_log.logId, 'Date':poslednji_log.dateTime,
+                            'System':platform.system(),'Type':logType,'Message':poslednji_log.msg,'ComputerName':socket.gethostname()} 
+
+                jsonData['potpis'] = signature
+                
+                print json.dumps(jsonData)
+                #print "Proveran potpis " + str(public_key.verify(hash, signature))
+                time.sleep(3)
+
+                 
+                try:
+                    r = requests.post(URL, data=json.dumps(jsonData))
+                except ConnectionError as e:
+                    print e
+                
+
+                #poslednji_log = novi_poslednji_log
+
+                fajl = "Logovi\SkladisteLogova"
+                
+                writeToFile(fajl, poslednji_log, i['log_type'])
             #print poslednji_log
             
             novi_poslednji_log = i['list'][-1]
@@ -231,17 +297,28 @@ if __name__ == "__main__":
 
                 if "WARNING" in novi_poslednji_log.category:
                     logType = "WARNING"
-                elif "CRITICAL" in novi_poslednji_log.category:
-                    logType = "CRITICAL"
                 elif "ERROR" in novi_poslednji_log.category or "Error" in novi_poslednji_log.category:
                     logType = "ERROR"
                 else:
                     logType = "INFO"
 
-                jsonData = {'fajl_logova': i['log_type'], 'evt_id': novi_poslednji_log.logId, 'Date':novi_poslednji_log.dateTime,'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()}
+                # Text koji se hasuje
+                text = str(i['log_type']) + str(novi_poslednji_log.logId) + str(novi_poslednji_log.dateTime) + \
+                str(platform.system()) + str(logType) + str(novi_poslednji_log.msg) + str(socket.gethostname())
+                # Hasovanje texta
+                hash = SHA256.new(text).digest()
+                # Potpisivanje hasha
+                signature = key.sign(hash, '')
 
+                jsonData = {'fajl_logova': i['log_type'], 'evt_id': novi_poslednji_log.logId, 'Date':novi_poslednji_log.dateTime,
+                            'System':platform.system(),'Type':logType,'Message':novi_poslednji_log.msg,'ComputerName':socket.gethostname()} 
+
+                jsonData['potpis'] = signature
+                
                 print json.dumps(jsonData)
-                        
+                # print public_key.verify(hash, signature)
+
+                 
                 try:
                     r = requests.post(URL, data=json.dumps(jsonData))
                 except ConnectionError as e:

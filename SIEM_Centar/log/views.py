@@ -8,6 +8,15 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 from .models import LogModel
 
+import pickle
+
+import os
+
+from Crypto.Hash import SHA256
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 # Create your views here.
 
 def format_date_time_for_db(date_time):
@@ -19,12 +28,29 @@ def format_date_time_for_db(date_time):
 @csrf_exempt
 def add_log(request):
     data = json.loads(request.body)
-    print data
-    final_date = format_date_time_for_db(data['Date'])
-    LogModel.objects.create(Log_ident=data['evt_id'], dateTime=final_date,
-                            category=data['Type'], compName=data['ComputerName'],
-                            msg=data['Message'], system=data['System'],
-                            fajl_logova=data['fajl_logova'])
+    potpis = data['potpis'][-1]
+    # print potpis
+    
+    # Text koji se hasuje
+    text = str(data['fajl_logova']) + str(data['evt_id']) + str(data['Date']) + \
+    str(data['System']) + str(data['Type']) + str(data['Message']) + str(data['ComputerName'])
+    # Hasovanje texta
+    hash = SHA256.new(text).digest()
+    try:
+        public_key = pickle.load( open( os.path.expanduser("~/Desktop/Projekat BSEP\Agent_Win_Logs\Logovi\SkladisteLogova\javniKljuc.p"), "rb" ))
+        
+        # Proveri potpis
+        if public_key.verify(hash, data['potpis']):
+        
+            final_date = format_date_time_for_db(data['Date'])
+            LogModel.objects.create(Log_ident=data['evt_id'], dateTime=final_date,
+                                    category=data['Type'], compName=data['ComputerName'],
+                                    msg=data['Message'], system=data['System'],
+                                    fajl_logova=data['fajl_logova'])
+        else:
+            print "Kljucevi se ne podudaraju\n"
+    except EOFError:
+        print "Nema kljuca\n"
     return HttpResponse("Got json data")
 
 
