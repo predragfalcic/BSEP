@@ -1,11 +1,19 @@
+import calendar
+
 class LogItem(object):
 
-    def __init__(self, timestamp, type, message):
+    def __init__(self, timestamp, logId, type, compName, message, fileName):
 
         self.timestamp = timestamp
+        self.logId = logId
         self.type = type
+        self.compName = compName
         self.message = message
+        self.fileName = fileName
+
+
+
 
     def toString(self):
 
-        return self.timestamp.strftime('%b %d %H:%M:%S') + "|" + self.type + "|" + self.message
+        return str(self.timestamp) + "|" + self.type + "|" + self.compName + "|" + self.message + "|" + self.fileName
