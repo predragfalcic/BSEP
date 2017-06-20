@@ -32,17 +32,24 @@ def add_log(request):
     data = json.loads(request.body)
     potpis = data['potpis'][-1]
     # print potpis
-    
-    # Text koji se hasuje
-    #text = str(data['fajl_logova']) + str(data['evt_id']) + str(data['Date']) + \
-    #str(data['System']) + str(data['Type']) + str(data['Message']) + str(data['ComputerName'])
-    text = str(data['Date']) + str(data['Type']) + str(data['ComputerName']) \
+
+    if data['System'] == "Linux":
+        text = str(data['Date']) + str(data['Type']) + str(data['ComputerName']) \
            + str(data['Message']) + str(data['fajl_logova'])
+
+        public_key = pickle.load(open(os.path.expanduser("/home/student/PycharmProjects/BSEP/Linux_logs/SkladisteLogovaLinux/javniKljuc.p"), "rb"))
+
+    else:
+        print "Usao je u else"
+        # Text koji se hasuje
+        text = str(data['fajl_logova']) + str(data['evt_id']) + str(data['Date']) + \
+            str(data['System']) + str(data['Type']) + str(data['Message']) + str(data['ComputerName'])
+
+        public_key = pickle.load( open( os.path.expanduser("~\\Desktop\\Novi Projekat BSEP\\Agent_Win_Logs\\Logovi\\SkladisteLogova\\javniKljuc.p"), "rb" ))
+        
     # Hasovanje texta
     hash = SHA256.new(text).digest()
     try:
-        #public_key = pickle.load( open( os.path.expanduser("~/Desktop/Projekat BSEP\Agent_Win_Logs\Logovi\SkladisteLogovaLinux\javniKljuc.p"), "rb" ))
-        public_key = pickle.load(open(os.path.expanduser("/home/student/PycharmProjects/BSEP/Linux_logs/SkladisteLogovaLinux/javniKljuc.p"), "rb"))
         # Proveri potpis
         if public_key.verify(hash, data['potpis']):
 

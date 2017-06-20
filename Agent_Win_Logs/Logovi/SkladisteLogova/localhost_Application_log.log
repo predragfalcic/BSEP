@@ -1,238 +1,16 @@
 
  None Log of Application Events 
 --------------------
- Created: Tue Jun 20 13:22:13 2017
+ Created: Tue Jun 20 23:41:38 2017
 
 --------------------
 --------------------
 
-Event Date/Time:  06/20/17 11:43:56
-
-Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
-
-Record #59752
-
-Source: Windows Error Reporting
-
-Fehlerbucket 126755520909, Typ 5
-Ereignisname: WindowsUpdateFailure3
-Antwort: Nicht verfügbar
-CAB-Datei-ID: 0
-
-Problemsignatur:
-P1: 10.0.14393.0
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 1
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
-
-Angefügte Dateien:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2F1A.tmp.WERInternalMetadata.xml
-
-Diese Dateien befinden sich möglicherweise hier:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.14393.0_af48619578c5452df61ec189513978d479dc1db6_00000000_1cf5e21a
-
-Analysesymbol: 
-Es wird erneut nach einer Lösung gesucht: 0
-Berichts-ID: 5f587ee8-558d-11e7-8105-ac220b7132a3
-Berichtstatus: 0
-Bucket mit Hash: 1e171a019618409d6435504b13719a54
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:43:03
-
-Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
-
-Record #59751
-
-Source: Windows Error Reporting
-
-Fehlerbucket , Typ 0
-Ereignisname: WindowsUpdateFailure3
-Antwort: Nicht verfügbar
-CAB-Datei-ID: 0
-
-Problemsignatur:
-P1: 10.0.14393.0
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 1
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
-
-Angefügte Dateien:
-
-Diese Dateien befinden sich möglicherweise hier:
-C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_af48619578c5452df61ec189513978d479dc1db6_00000000_23ad1499
-
-Analysesymbol: 
-Es wird erneut nach einer Lösung gesucht: 0
-Berichts-ID: d9f0270d-559c-11e7-8106-ac220b7132a3
-Berichtstatus: 4100
-Bucket mit Hash: 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:43:02
-
-Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
-
-Record #59750
-
-Source: Windows Error Reporting
-
-Fehlerbucket , Typ 0
-Ereignisname: WindowsUpdateFailure3
-Antwort: Nicht verfügbar
-CAB-Datei-ID: 0
-
-Problemsignatur:
-P1: 10.0.14393.0
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 1
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
-
-Angefügte Dateien:
-
-Diese Dateien befinden sich möglicherweise hier:
-
-
-Analysesymbol: 
-Es wird erneut nach einer Lösung gesucht: 0
-Berichts-ID: d9f0270d-559c-11e7-8106-ac220b7132a3
-Berichtstatus: 262144
-Bucket mit Hash: 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:55
-
-Event ID / Type:  903 / unknown
-
-Record #59749
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:55
-
-Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
-
-Record #59748
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-27T09:41:55Z geplant. Grund: RulesEngine.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:37
-
-Event ID / Type:  2000 / EVENTLOG_INFORMATION_TYPE
-
-Record #59747
-
-Source: UNS
-
-User Notification Service started.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:29
-
-Event ID / Type:  15 / EVENTLOG_INFORMATION_TYPE
-
-Record #59746
-
-Source: SecurityCenter
-
-Der Windows Defender-Status wurde erfolgreich auf SECURITY_PRODUCT_STATE_ON aktualisiert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:29
-
-Event ID / Type:  15 / EVENTLOG_INFORMATION_TYPE
-
-Record #59745
-
-Source: SecurityCenter
-
-Der Windows Defender-Status wurde erfolgreich auf SECURITY_PRODUCT_STATE_ON aktualisiert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:27
-
-Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
-
-Record #59744
-
-Source: SecurityCenter
-
-Der Windows-Sicherheitscenterdienst wurde gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:25
-
-Event ID / Type:  902 / unknown
-
-Record #59743
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde gestartet.
-10.0.14393.0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:25
+Event Date/Time:  06/20/17 21:07:47
 
 Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
 
-Record #59742
+Record #59791
 
 Source: Software Protection Platform Service
 
@@ -277,11 +55,11 @@ Lizenzierungsstatus=
 --------------------
 
 
-Event Date/Time:  06/20/17 11:41:24
+Event Date/Time:  06/20/17 21:07:47
 
 Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
 
-Record #59741
+Record #59790
 
 Source: Software Protection Platform Service
 
@@ -301,428 +79,11 @@ C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0
 --------------------
 
 
-Event Date/Time:  06/20/17 11:41:23
+Event Date/Time:  06/20/17 21:07:47
 
 Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
 
-Record #59740
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wird gestartet.
-Parameter:<none>
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:15
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59739
-
-Source: LMS
-
-LMS started
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:07
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59738
-
-Source: Intel(R) ME Service
-
-<The description for Event ID ( 0 ) in Source ( u'Intel(R) ME Service' ) could not be found. It contains the following insertion string(s):u'Intel(R) ME Service, E'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:06
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59737
-
-Source: Intel(R) ME Service
-
-<The description for Event ID ( 0 ) in Source ( u'Intel(R) ME Service' ) could not be found. It contains the following insertion string(s):u'Intel(R) ME Service, E'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:44
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59736
-
-Source: iPod Service
-
-<The description for Event ID ( 0 ) in Source ( u'iPod Service' ) could not be found. It contains the following insertion string(s):u'Service started/resumed'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:26
-
-Event ID / Type:  903 / unknown
-
-Record #59735
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:26
-
-Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
-
-Record #59734
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-27T09:40:24Z geplant. Grund: RulesEngine.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:21
-
-Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59733
-
-Source: Windows Search Service
-
-Windows Search wurde gestartet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:17
-
-Event ID / Type:  326 / EVENTLOG_INFORMATION_TYPE
-
-Record #59732
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul hat eine Datenbank angefügt (1, C:\Users\Privat\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\EntClientDb.edb). (Zeit=0 Sekunden)
-
-
-
-Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.016, [3] 0.000, [4] 0.015, [5] 0.000, [6] 0.000, [7] 0.000, [8] 0.000, [9] 0.000, [10] 0.000, [11] 0.000, [12] 0.000.
-
-Gespeicherter Cache: 0 0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:17
-
-Event ID / Type:  105 / EVENTLOG_INFORMATION_TYPE
-
-Record #59731
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul hat eine neue Instanz (0) gestartet. (Zeit=2 Sekunden)
-
-
-
-Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.000, [3] 0.000, [4] 0.016, [5] 1.297, [6] 1.031, [7] 0.000, [8] 0.000, [9] 0.000, [10] 0.000.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:17
-
-Event ID / Type:  302 / EVENTLOG_INFORMATION_TYPE
-
-Record #59730
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul hat erfolgreich die Schritte zur Wiederherstellung abgeschlossen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:15
-
-Event ID / Type:  301 / EVENTLOG_INFORMATION_TYPE
-
-Record #59729
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul gibt die Protokolldatei C:\Users\Privat\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\edb.log wieder.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:15
-
-Event ID / Type:  300 / EVENTLOG_INFORMATION_TYPE
-
-Record #59728
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul initiiert Schritte zur Wiederherstellung.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:15
-
-Event ID / Type:  102 / EVENTLOG_INFORMATION_TYPE
-
-Record #59727
-
-Source: ESENT
-
-Video.UI (6832) {A4F67A87-5E5B-43E1-8609-17BF391365C2}: Das Datenbankmodul (10.00.14393.0000) startet eine neue Instanz (0).
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:09
-
-Event ID / Type:  101 / EVENTLOG_INFORMATION_TYPE
-
-Record #59726
-
-Source: SkypeUpdate
-
-Service stopped.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:07
-
-Event ID / Type:  103 / EVENTLOG_INFORMATION_TYPE
-
-Record #59725
-
-Source: SkypeUpdate
-
-SkypeUpdate service is shutting down due to idle timeout.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:05
-
-Event ID / Type:  326 / EVENTLOG_INFORMATION_TYPE
-
-Record #59724
-
-Source: ESENT
-
-SearchIndexer (1800) Windows: Das Datenbankmodul hat eine Datenbank angefügt (1, C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Zeit=2 Sekunden)
-
-
-
-Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.563, [3] 0.375, [4] 0.000, [5] 1.390, [6] 0.125, [7] 0.000, [8] 0.000, [9] 0.000, [10] 0.000, [11] 0.000, [12] 0.000.
-
-Gespeicherter Cache: 0 0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:03
-
-Event ID / Type:  105 / EVENTLOG_INFORMATION_TYPE
-
-Record #59723
-
-Source: ESENT
-
-SearchIndexer (1800) Windows: Das Datenbankmodul hat eine neue Instanz (0) gestartet. (Zeit=1 Sekunden)
-
-
-
-Interne Zeitsteuerungsabfolge: [1] 0.000, [2] 0.000, [3] 0.609, [4] 0.485, [5] 0.000, [6] 0.000, [7] 0.078, [8] 0.000, [9] 0.000, [10] 0.000.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:02
-
-Event ID / Type:  102 / EVENTLOG_INFORMATION_TYPE
-
-Record #59722
-
-Source: ESENT
-
-SearchIndexer (1800) Windows: Das Datenbankmodul (10.00.14393.0000) startet eine neue Instanz (0).
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:57
-
-Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
-
-Record #59721
-
-Source: Microsoft-Windows-Immersive-Shell
-
-Bei der Aktivierung der App „Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:56
-
-Event ID / Type:  2486 / EVENTLOG_ERROR_TYPE
-
-Record #59720
-
-Source: Microsoft-Windows-Immersive-Shell
-
-Die App „Microsoft.MicrosoftStickyNotes_1.8.0.0_x64__8wekyb3d8bbwe+App“ wurde nicht innerhalb der vorgesehenen Zeit gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:52
-
-Event ID / Type:  1040 / EVENTLOG_INFORMATION_TYPE
-
-Record #59719
-
-Source: Software Protection Platform Service
-
-Die Hardware wurde seit dem letzten Startvorgang geändert.
- AppId=0ff1ce15-a989-479d-af46-f275c6370663, SkuId=2b88c4f2-ea8f-43cd-805e-4d41346e18a7.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:52
-
-Event ID / Type:  902 / unknown
-
-Record #59718
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde gestartet.
-10.0.14393.0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:51
-
-Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59717
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst hat die Überprüfung des Lizenzierungsstatus abgeschlossen.
-Anwendungs-ID=55c92734-d682-4d71-983e-d6ec3f16059f
-Lizenzierungsstatus=
-1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-3: 0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-4: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-5: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-6: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-7: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-8: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-9: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-10: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-11: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-12: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-13: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
-14: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-15: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-16: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-17: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-18: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-19: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-20: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-21: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-22: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-23: bbc56067-37f8-49dd-87b2-a418a9ba130a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-24: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-25: c082c31b-2c4f-4e07-94d7-9181fa802c4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-26: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-27: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-28: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-29: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-30: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-31: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:51
-
-Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
-
-Record #59716
-
-Source: Software Protection Platform Service
-
-Initialisierungsstatus für Dienstobjekte.
-C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:45
-
-Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
-
-Record #59715
+Record #59789
 
 Source: Software Protection Platform Service
 
@@ -733,400 +94,81 @@ Parameter:caller=wmiprvse.exe
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:22
+Event Date/Time:  06/20/17 20:59:53
 
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
 
-Record #59714
+Record #59788
 
-Source: igfxCUIService1.0.0.0
+Source: Windows Error Reporting
 
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Received Post Shell Event 1\n'.>
+Fehlerbucket 129285679978, Typ 5
+Ereignisname: RADAR_PRE_LEAK_WOW64
+Antwort: Nicht verfügbar
+CAB-Datei-ID: 0
 
---------------------
+Problemsignatur:
+P1: Skype.exe
+P2: 7.30.64.105
+P3: 10.0.14393.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
 
+Angefügte Dateien:
+\\?\C:\Users\Privat\AppData\Local\Temp\RDRD6D4.tmp\empty.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERD7CF.tmp.WERInternalMetadata.xml
 
-Event Date/Time:  06/20/17 11:38:22
-
-Event ID / Type:  6000 / EVENTLOG_INFORMATION_TYPE
-
-Record #59713
-
-Source: Wlclntfy
-
-Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das Benachrichtigungsereignis zu verarbeiten.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:21
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59712
-
-Source: igfxCUIService1.0.0.0
-
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Logon: 1\n'.>
-
---------------------
+Diese Dateien befinden sich möglicherweise hier:
 
 
-Event Date/Time:  06/20/17 11:38:21
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59711
-
-Source: igfxCUIService1.0.0.0
-
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Log on event received User1\n'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:16
-
-Event ID / Type:  6003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59710
-
-Source: Wlclntfy
-
-Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das kritische Benachrichtigungsereignis zu verarbeiten.
+Analysesymbol: 
+Es wird erneut nach einer Lösung gesucht: 0
+Berichts-ID: a28e2a28-55ea-11e7-8106-ac220b7132a3
+Berichtstatus: 0
+Bucket mit Hash: ab871549ebe3c023232af5746306971b
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:14
+Event Date/Time:  06/20/17 20:55:39
 
-Event ID / Type:  5617 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  101 / EVENTLOG_INFORMATION_TYPE
 
-Record #59709
+Record #59787
 
-Source: Microsoft-Windows-WMI
+Source: SkypeUpdate
 
-Die Subsysteme des Windows-Verwaltungsinstrumentationsdiensts wurden erfolgreich initialisiert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:12
-
-Event ID / Type:  9688 / EVENTLOG_INFORMATION_TYPE
-
-Record #59708
-
-Source: MSSQL$MESONIC
-
-Der Service Broker-Manager wurde gestartet.
+Service stopped.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:12
+Event Date/Time:  06/20/17 20:55:38
 
-Event ID / Type:  9666 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  103 / EVENTLOG_INFORMATION_TYPE
 
-Record #59707
+Record #59786
 
-Source: MSSQL$MESONIC
+Source: SkypeUpdate
 
-Der Database Mirroring-Protokolltransport ist deaktiviert oder nicht konfiguriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:12
-
-Event ID / Type:  9666 / EVENTLOG_INFORMATION_TYPE
-
-Record #59706
-
-Source: MSSQL$MESONIC
-
-Der Service Broker-Protokolltransport ist deaktiviert oder nicht konfiguriert.
+SkypeUpdate service is shutting down due to idle timeout.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:12
-
-Event ID / Type:  3408 / EVENTLOG_INFORMATION_TYPE
-
-Record #59705
-
-Source: MSSQL$MESONIC
-
-Die Wiederherstellung wurde abgeschlossen. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:11
-
-Event ID / Type:  17137 / EVENTLOG_INFORMATION_TYPE
-
-Record #59704
-
-Source: MSSQL$MESONIC
-
-'tempdb'-Datenbank wird gestartet
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17126 / EVENTLOG_INFORMATION_TYPE
-
-Record #59703
-
-Source: MSSQL$MESONIC
-
-SQL Server ist nun bereit für Clientverbindungen. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17199 / EVENTLOG_INFORMATION_TYPE
-
-Record #59702
-
-Source: MSSQL$MESONIC
-
-Die Unterstützung für dedizierte Administratorverbindungen wurde nicht gestartet, weil sie in dieser Edition von SQL Server nicht verfügbar ist. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  26048 / EVENTLOG_INFORMATION_TYPE
-
-Record #59701
-
-Source: MSSQL$MESONIC
-
-Der lokale Verbindungsanbieter des Servers ist zum Annehmen einer Verbindung auf [ \\.\pipe\MSSQL$MESONIC\sql\query ] bereit.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  26048 / EVENTLOG_INFORMATION_TYPE
-
-Record #59700
-
-Source: MSSQL$MESONIC
-
-Der lokale Verbindungsanbieter des Servers ist zum Annehmen einer Verbindung auf [ \\.\pipe\SQLLocal\MESONIC ] bereit.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  26018 / EVENTLOG_INFORMATION_TYPE
-
-Record #59699
-
-Source: MSSQL$MESONIC
-
-Ein selbst generiertes Zertifikat wurde erfolgreich für die Verschlüsselung geladen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17136 / EVENTLOG_INFORMATION_TYPE
-
-Record #59698
-
-Source: MSSQL$MESONIC
-
-tempdb-Datenbank wird gelöscht
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17137 / EVENTLOG_INFORMATION_TYPE
-
-Record #59697
-
-Source: MSSQL$MESONIC
-
-'msdb'-Datenbank wird gestartet
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17663 / EVENTLOG_INFORMATION_TYPE
-
-Record #59696
-
-Source: MSSQL$MESONIC
-
-Der Servername lautet 'HADBELONIC\MESONIC'. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:09
-
-Event ID / Type:  17137 / EVENTLOG_INFORMATION_TYPE
-
-Record #59695
-
-Source: MSSQL$MESONIC
-
-'model'-Datenbank wird gestartet
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  958 / EVENTLOG_INFORMATION_TYPE
-
-Record #59694
-
-Source: MSSQL$MESONIC
-
-Die Buildversion der Ressourcendatenbankversion ist 9.00.4035 Die Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  17137 / EVENTLOG_INFORMATION_TYPE
-
-Record #59693
-
-Source: MSSQL$MESONIC
-
-'mssqlsystemresource'-Datenbank wird gestartet
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  19030 / EVENTLOG_INFORMATION_TYPE
-
-Record #59692
-
-Source: MSSQL$MESONIC
-
-Die SQL-Ablaufverfolgung mit der ID 1 wurde vom Anmeldenamen "sa" gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  3454 / EVENTLOG_INFORMATION_TYPE
-
-Record #59691
-
-Source: MSSQL$MESONIC
-
-Von der Wiederherstellung wird ein Prüfpunkt in die 'master'-Datenbank geschrieben (1). Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  17137 / EVENTLOG_INFORMATION_TYPE
-
-Record #59690
-
-Source: MSSQL$MESONIC
-
-'master'-Datenbank wird gestartet
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  1485 / EVENTLOG_INFORMATION_TYPE
-
-Record #59689
-
-Source: MSSQL$MESONIC
-
-Für diese SQL Server-Instanz wurde die Datenbankspiegelung aktiviert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  17125 / EVENTLOG_INFORMATION_TYPE
-
-Record #59688
-
-Source: MSSQL$MESONIC
-
-Die dynamische Sperrenzuordnung wird verwendet. Anfänglich wurden 2500 Sperrblöcke und 5000 Sperrenbesitzerblöcke pro Knoten zugeordnet. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59687
-
-Source: Intel(R) Capability Licensing Service Interface
-
-Service started
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
+Event Date/Time:  06/20/17 20:53:30
 
 Event ID / Type:  100 / EVENTLOG_INFORMATION_TYPE
 
-Record #59686
+Record #59785
 
 Source: SkypeUpdate
 
@@ -1136,1166 +178,193 @@ Service started.
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17164 / EVENTLOG_INFORMATION_TYPE
-
-Record #59685
-
-Source: MSSQL$MESONIC
-
-Es wurden 4 CPUs gefunden. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17162 / EVENTLOG_INFORMATION_TYPE
-
-Record #59684
-
-Source: MSSQL$MESONIC
-
-SQL Server wird mit normaler Priorität (=7) gestartet. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17110 / EVENTLOG_INFORMATION_TYPE
-
-Record #59683
-
-Source: MSSQL$MESONIC
-
-Registrierungsstartparameter:
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17176 / EVENTLOG_INFORMATION_TYPE
-
-Record #59682
-
-Source: MSSQL$MESONIC
-
-Diese SQL Server-Instanz hat zuletzt die Verwendung der Prozess-ID 2616 um 20.06.2017 11:36:34 (Ortszeit), 20.06.2017 09:36:34 (UTC), berichtet. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17111 / EVENTLOG_INFORMATION_TYPE
-
-Record #59681
-
-Source: MSSQL$MESONIC
-
-Die SQL Server-Meldungen werden in der Datei 'C:\Program Files (x86)\Microsoft SQL Server\MSSQL.1\MSSQL\LOG\ERRORLOG' protokolliert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  15268 / EVENTLOG_INFORMATION_TYPE
-
-Record #59680
-
-Source: MSSQL$MESONIC
-
-Der Authentifizierungsmodus ist MIXED.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17104 / EVENTLOG_INFORMATION_TYPE
-
-Record #59679
-
-Source: MSSQL$MESONIC
-
-Die Serverprozess-ID lautet 2448.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17103 / EVENTLOG_INFORMATION_TYPE
-
-Record #59678
-
-Source: MSSQL$MESONIC
-
-Alle Rechte vorbehalten.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17101 / EVENTLOG_INFORMATION_TYPE
-
-Record #59677
-
-Source: MSSQL$MESONIC
-
-(c) 2005 Microsoft Corporation.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  17069 / EVENTLOG_INFORMATION_TYPE
-
-Record #59676
-
-Source: MSSQL$MESONIC
-
-Microsoft SQL Server 2005 - 9.00.4035.00 (Intel X86) 
-	Nov 24 2008 13:01:59 
-	Copyright (c) 1988-2005 Microsoft Corporation
-	Express Edition on Windows NT 6.2 (Build 9200: )
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59675
-
-Source: MyEpson Portal Service
-
-<The description for Event ID ( 0 ) in Source ( u'MyEpson Portal Service' ) could not be found. It contains the following insertion string(s):u'Service started'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  100 / EVENTLOG_INFORMATION_TYPE
-
-Record #59674
-
-Source: Bonjour Service
-
-Service started
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59673
-
-Source: AdobeARMservice
-
-<The description for Event ID ( 0 ) in Source ( u'AdobeARMservice' ) could not be found. It contains the following insertion string(s):u'Service started'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59672
-
-Source: IntelDalJhi
-
-Intel(R) Dynamic Application Loader Host Interface Service started.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  100 / EVENTLOG_INFORMATION_TYPE
-
-Record #59671
-
-Source: Bonjour Service
-
-Service initialized
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  100 / EVENTLOG_INFORMATION_TYPE
-
-Record #59670
-
-Source: Bonjour Service
-
-Service initializing
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:06
-
-Event ID / Type:  5615 / EVENTLOG_INFORMATION_TYPE
-
-Record #59669
-
-Source: Microsoft-Windows-WMI
-
-Der Windows-Verwaltungsinstrumentationsdienst wurde erfolgreich gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  1531 / EVENTLOG_INFORMATION_TYPE
-
-Record #59668
-
-Source: Microsoft-Windows-User Profiles Service
-
-Der Benutzerprofildienst wurde erfolgreich gestartet.  
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59667
-
-Source: igfxCUIService1.0.0.0
-
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Service started/resumed'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  4625 / EVENTLOG_INFORMATION_TYPE
-
-Record #59666
-
-Source: EventSystem
-
-<The description for Event ID ( 4625 ) in Source ( u'EventSystem' ) could not be found. It contains the following insertion string(s):u'86400, SuppressDuplicateDuration, Software\\Microsoft\\EventSystem\\EventLog'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:36
-
-Event ID / Type:  1532 / EVENTLOG_INFORMATION_TYPE
-
-Record #59665
-
-Source: Microsoft-Windows-User Profiles Service
-
-Das Benutzerprofil wurde angehalten  
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:35
-
-Event ID / Type:  100 / EVENTLOG_INFORMATION_TYPE
-
-Record #59664
-
-Source: Bonjour Service
-
-Service stopped (0)
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:34
-
-Event ID / Type:  17147 / EVENTLOG_INFORMATION_TYPE
-
-Record #59663
-
-Source: MSSQL$MESONIC
-
-SQL Server wird beendet, weil das System heruntergefahren wird. Diese Meldung dient nur zu Informationszwecken. Es ist keine Benutzeraktion erforderlich.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:31
-
-Event ID / Type:  1530 / EVENTLOG_INFORMATION_TYPE
-
-Record #59662
-
-Source: Microsoft-Windows-User Profiles Service
-
-Es wurde festgestellt, dass Ihre Registrierungsdatei noch von anderen Anwendungen oder Diensten verwendet wird. Die Datei wird nun entladen. Die Anwendungen oder Dienste, die Ihre Registrierungsdatei anhalten, funktionieren anschließend u. U. nicht mehr ordnungsgemäß. Kein Benutzereingriff erforderlich. 
-
- DETAIL - 
- 2 user registry handles leaked from \Registry\User\S-1-5-21-1357950317-1809519924-948231572-1008_Classes:
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008_Classes
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008_Classes
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:32
-
-Event ID / Type:  6000 / EVENTLOG_INFORMATION_TYPE
-
-Record #59661
-
-Source: Wlclntfy
-
-Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das Benachrichtigungsereignis zu verarbeiten.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:30
-
-Event ID / Type:  1530 / EVENTLOG_INFORMATION_TYPE
-
-Record #59660
-
-Source: Microsoft-Windows-User Profiles Service
-
-Es wurde festgestellt, dass Ihre Registrierungsdatei noch von anderen Anwendungen oder Diensten verwendet wird. Die Datei wird nun entladen. Die Anwendungen oder Dienste, die Ihre Registrierungsdatei anhalten, funktionieren anschließend u. U. nicht mehr ordnungsgemäß. Kein Benutzereingriff erforderlich. 
-
- DETAIL - 
- 12 user registry handles leaked from \Registry\User\S-1-5-21-1357950317-1809519924-948231572-1008:
-Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore\Parents
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\CommsAPHost\Test
-Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore
-Process 520 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl
-Process 2512 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Policies\Microsoft\Windows\DataCollection
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Main
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\ActiveSync\Partners
-Process 904 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\System\GameConfigStore\Children
-Process 5536 (\Device\HarddiskVolume2\Windows\System32\svchost.exe) has opened key \REGISTRY\USER\S-1-5-21-1357950317-1809519924-948231572-1008\SOFTWARE\Microsoft\Internet Explorer\Security
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:30
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59659
-
-Source: igfxCUIService1.0.0.0
-
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u' Logoff: 8\n'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:30
-
-Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
-
-Record #59658
-
-Source: igfxCUIService1.0.0.0
-
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u' Logoff: Test\n'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:35:07
-
-Event ID / Type:  903 / unknown
-
-Record #59657
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:35:07
-
-Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
-
-Record #59656
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-27T09:35:07Z geplant. Grund: RulesEngine.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:37
-
-Event ID / Type:  902 / unknown
-
-Record #59655
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde gestartet.
-10.0.14393.0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:37
-
-Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59654
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst hat die Überprüfung des Lizenzierungsstatus abgeschlossen.
-Anwendungs-ID=55c92734-d682-4d71-983e-d6ec3f16059f
-Lizenzierungsstatus=
-1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-3: 0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-4: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-5: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-6: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-7: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-8: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-9: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-10: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-11: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-12: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-13: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
-14: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-15: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-16: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-17: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-18: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-19: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-20: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-21: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-22: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-23: bbc56067-37f8-49dd-87b2-a418a9ba130a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-24: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-25: c082c31b-2c4f-4e07-94d7-9181fa802c4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-26: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-27: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-28: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-29: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-30: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-31: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:36
-
-Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
-
-Record #59653
-
-Source: Software Protection Platform Service
-
-Initialisierungsstatus für Dienstobjekte.
-C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:36
-
-Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
-
-Record #59652
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wird gestartet.
-Parameter:caller=Explorer.EXE
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:32:22
-
-Event ID / Type:  903 / unknown
-
-Record #59651
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:32:22
-
-Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
-
-Record #59650
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-27T09:32:21Z geplant. Grund: RulesEngine.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:51
-
-Event ID / Type:  902 / unknown
-
-Record #59649
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde gestartet.
-10.0.14393.0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:51
-
-Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59648
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst hat die Überprüfung des Lizenzierungsstatus abgeschlossen.
-Anwendungs-ID=55c92734-d682-4d71-983e-d6ec3f16059f
-Lizenzierungsstatus=
-1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-3: 0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-4: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-5: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-6: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-7: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-8: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-9: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-10: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-11: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-12: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-13: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
-14: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-15: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-16: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-17: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-18: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-19: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-20: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-21: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-22: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-23: bbc56067-37f8-49dd-87b2-a418a9ba130a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-24: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-25: c082c31b-2c4f-4e07-94d7-9181fa802c4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-26: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-27: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-28: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-29: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-30: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-31: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:51
-
-Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
-
-Record #59647
-
-Source: Software Protection Platform Service
-
-Initialisierungsstatus für Dienstobjekte.
-C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:51
-
-Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
-
-Record #59646
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wird gestartet.
-Parameter:caller=Explorer.EXE
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:26:18
-
-Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
-
-Record #59645
-
-Source: Microsoft-Windows-Immersive-Shell
-
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:20:23
-
-Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
-
-Record #59644
-
-Source: Microsoft-Windows-Immersive-Shell
-
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:14:52
-
-Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
-
-Record #59643
-
-Source: Microsoft-Windows-Immersive-Shell
-
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:13:01
-
-Event ID / Type:  8224 / EVENTLOG_INFORMATION_TYPE
-
-Record #59642
-
-Source: VSS
-
-Der VSS-Dienst wird aufgrund eines Leerlaufzeitlimits heruntergefahren.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:11:28
-
-Event ID / Type:  8302 / EVENTLOG_INFORMATION_TYPE
-
-Record #59641
-
-Source: Microsoft-Windows-System-Restore
-
-Scoping successfully completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:11:28
-
-Event ID / Type:  8301 / EVENTLOG_INFORMATION_TYPE
-
-Record #59640
-
-Source: Microsoft-Windows-System-Restore
-
-Scoping completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:10:05
-
-Event ID / Type:  8300 / EVENTLOG_INFORMATION_TYPE
-
-Record #59639
-
-Source: Microsoft-Windows-System-Restore
-
-Scoping started for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:52
-
-Event ID / Type:  1033 / EVENTLOG_INFORMATION_TYPE
-
-Record #59638
-
-Source: MsiInstaller
-
-Das Produkt wurde durch Windows Installer installiert. Produktname: Microsoft Visual C++ Compiler Package for Python 2.7. Produktversion: 9.0.1.30729. Produktsprache: 1033. Hersteller: Microsoft Corporation. Erfolg- bzw. Fehlerstatus der Installation: 0.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:51
+Event Date/Time:  06/20/17 20:53:15
 
 Event ID / Type:  10001 / EVENTLOG_INFORMATION_TYPE
 
-Record #59637
+Record #59784
 
 Source: Microsoft-Windows-RestartManager
 
-Sitzung wird beendet: 0. 2017-06-20T09:09:05.614053100Z wird gestartet.
+Sitzung wird beendet: 0. 2017-06-20T18:52:57.862235100Z wird gestartet.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:09:52
+Event Date/Time:  06/20/17 20:53:15
 
-Event ID / Type:  11707 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  10001 / EVENTLOG_INFORMATION_TYPE
 
-Record #59636
+Record #59783
 
-Source: MsiInstaller
+Source: Microsoft-Windows-RestartManager
 
-Product: Microsoft Visual C++ Compiler Package for Python 2.7 -- Installation completed successfully.
+Sitzung wird beendet: 0. 2017-06-20T18:52:52.189196700Z wird gestartet.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:09:52
+Event Date/Time:  06/20/17 20:53:15
 
 Event ID / Type:  1042 / EVENTLOG_INFORMATION_TYPE
 
-Record #59635
+Record #59782
 
 Source: MsiInstaller
 
-Eine Windows Installer-Transaktion wird beendet: C:\Users\Privat\Downloads\VCForPython27.msi. Clientprozess-ID: 6696.
+Eine Windows Installer-Transaktion wird beendet: C:\ProgramData\Skype\{FC965A47-4839-40CA-B618-18F486F042C6}\Skype.msi. Clientprozess-ID: 9184.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:09:09
+Event Date/Time:  06/20/17 20:53:15
 
-Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+Event ID / Type:  1033 / EVENTLOG_INFORMATION_TYPE
 
-Record #59634
+Record #59781
 
-Source: Microsoft-Windows-Immersive-Shell
+Source: MsiInstaller
 
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+Das Produkt wurde durch Windows Installer installiert. Produktname: Skype™ 7.30. Produktversion: 7.30.105. Produktsprache: 1031. Hersteller: Skype Technologies S.A.. Erfolg- bzw. Fehlerstatus der Installation: 0.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:09:05
+Event Date/Time:  06/20/17 20:53:15
+
+Event ID / Type:  11707 / EVENTLOG_INFORMATION_TYPE
+
+Record #59780
+
+Source: MsiInstaller
+
+Produkt: Skype™ 7.30 -- Die Installation wurde erfolgreich abgeschlossen.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:52:57
 
 Event ID / Type:  10000 / EVENTLOG_INFORMATION_TYPE
 
-Record #59633
+Record #59779
 
 Source: Microsoft-Windows-RestartManager
 
-Sitzung wird gestartet: 0 - 2017-06-20T09:09:05.614053100Z.
+Sitzung wird gestartet: 0 - 2017-06-20T18:52:57.862235100Z.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:09:04
+Event Date/Time:  06/20/17 20:52:52
 
-Event ID / Type:  8194 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  10000 / EVENTLOG_INFORMATION_TYPE
 
-Record #59632
+Record #59778
 
-Source: System Restore
+Source: Microsoft-Windows-RestartManager
 
-Der Wiederherstellungspunkt wurde erfolgreich erstellt (Prozess = C:\WINDOWS\system32\msiexec.exe /V; Beschreibung = Installed Microsoft Visual C++ Compiler Package for Python 2.7).
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:08:43
-
-Event ID / Type:  513 / EVENTLOG_ERROR_TYPE
-
-Record #59631
-
-Source: Microsoft-Windows-CAPI2
-
-Fehler beim Kryptografiedienst während der Verarbeitung des "OnIdentity()"-Aufrufobjekts "System Writer".
-
-Details:
-AddLegacyDriverFiles: Unable to back up image of binary Microsoft-Verbindungsschichterkennungsprotokoll.
-
-System Error:
-Zugriff verweigert
-.
+Sitzung wird gestartet: 0 - 2017-06-20T18:52:52.189196700Z.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:08:22
+Event Date/Time:  06/20/17 20:52:50
 
 Event ID / Type:  1040 / EVENTLOG_INFORMATION_TYPE
 
-Record #59630
+Record #59777
 
 Source: MsiInstaller
 
-Eine Windows Installer-Transaktion wird gestartet: C:\Users\Privat\Downloads\VCForPython27.msi. Clientprozess-ID: 6696.
+Eine Windows Installer-Transaktion wird gestartet: C:\ProgramData\Skype\{FC965A47-4839-40CA-B618-18F486F042C6}\Skype.msi. Clientprozess-ID: 9184.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:02:49
+Event Date/Time:  06/20/17 20:51:52
 
 Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
 
-Record #59629
+Record #59776
 
 Source: Microsoft-Windows-Immersive-Shell
 
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 09:54:06
+Event Date/Time:  06/20/17 20:51:52
 
 Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
 
-Record #59628
+Record #59775
 
 Source: Microsoft-Windows-Immersive-Shell
 
-Bei der Aktivierung der App „Microsoft.BingWeather_8wekyb3d8bbwe!App“ ist folgender Fehler aufgetreten: -2144927148. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 09:52:14
-
-Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
-
-Record #59627
-
-Source: Windows Error Reporting
-
-Fehlerbucket , Typ 0
-Ereignisname: WindowsUpdateFailure3
-Antwort: Nicht verfügbar
-CAB-Datei-ID: 0
-
-Problemsignatur:
-P1: 10.0.14393.0
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 1
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
-
-Angefügte Dateien:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2F1A.tmp.WERInternalMetadata.xml
-
-Diese Dateien befinden sich möglicherweise hier:
-C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.14393.0_af48619578c5452df61ec189513978d479dc1db6_00000000_cab_571d2f49
-
-Analysesymbol: 
-Es wird erneut nach einer Lösung gesucht: 0
-Berichts-ID: 5f587ee8-558d-11e7-8105-ac220b7132a3
-Berichtstatus: 4
-Bucket mit Hash: 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:14
-
-Event ID / Type:  1001 / EVENTLOG_INFORMATION_TYPE
-
-Record #59626
-
-Source: Windows Error Reporting
-
-Fehlerbucket , Typ 0
-Ereignisname: WindowsUpdateFailure3
-Antwort: Nicht verfügbar
-CAB-Datei-ID: 0
-
-Problemsignatur:
-P1: 10.0.14393.0
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 1
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
-
-Angefügte Dateien:
-
-Diese Dateien befinden sich möglicherweise hier:
-
-
-Analysesymbol: 
-Es wird erneut nach einer Lösung gesucht: 0
-Berichts-ID: 5f587ee8-558d-11e7-8105-ac220b7132a3
-Berichtstatus: 262144
-Bucket mit Hash: 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:51:30
-
-Event ID / Type:  903 / unknown
-
-Record #59625
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:51:30
-
-Event ID / Type:  16384 / EVENTLOG_INFORMATION_TYPE
-
-Record #59624
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde erfolgreich für den erneuten Start bei 2117-05-27T07:51:30Z geplant. Grund: RulesEngine.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:53
-
-Event ID / Type:  902 / unknown
-
-Record #59623
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wurde gestartet.
-10.0.14393.0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:53
-
-Event ID / Type:  1003 / EVENTLOG_INFORMATION_TYPE
-
-Record #59622
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst hat die Überprüfung des Lizenzierungsstatus abgeschlossen.
-Anwendungs-ID=55c92734-d682-4d71-983e-d6ec3f16059f
-Lizenzierungsstatus=
-1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-3: 0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-4: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-5: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-6: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-7: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-8: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-9: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-10: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-11: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-12: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-13: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
-14: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-15: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-16: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-17: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-18: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-19: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-20: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-21: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-22: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-23: bbc56067-37f8-49dd-87b2-a418a9ba130a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-24: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-25: c082c31b-2c4f-4e07-94d7-9181fa802c4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-26: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-27: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-28: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-29: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-30: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-31: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
-
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:53
-
-Event ID / Type:  1066 / EVENTLOG_INFORMATION_TYPE
-
-Record #59621
-
-Source: Software Protection Platform Service
-
-Initialisierungsstatus für Dienstobjekte.
-C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
-C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:53
-
-Event ID / Type:  900 / EVENTLOG_INFORMATION_TYPE
-
-Record #59620
-
-Source: Software Protection Platform Service
-
-Der Softwareschutzdienst wird gestartet.
-Parameter:caller=devicecensus.exe
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:48:19
+Event Date/Time:  06/20/17 20:51:52
 
 Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
 
-Record #59619
+Record #59774
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:51:52
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59773
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:51:51
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59772
+
+Source: Microsoft-Windows-Immersive-Shell
+
+Bei der Aktivierung der App „Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App“ ist folgender Fehler aufgetreten: -2144927142. Weitere Informationen finden Sie im Protokoll „Microsoft-Windows-TWinUI/Betriebsbereit“.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:50:12
+
+Event ID / Type:  5973 / EVENTLOG_ERROR_TYPE
+
+Record #59771
 
 Source: Microsoft-Windows-Immersive-Shell
 
@@ -2305,11 +374,11 @@ Bei der Aktivierung der App „Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App�
 --------------------
 
 
-Event Date/Time:  06/20/17 09:48:18
+Event Date/Time:  06/20/17 20:50:11
 
 Event ID / Type:  2486 / EVENTLOG_ERROR_TYPE
 
-Record #59618
+Record #59770
 
 Source: Microsoft-Windows-Immersive-Shell
 
@@ -2319,24 +388,24 @@ Die App „Microsoft.MicrosoftStickyNotes_1.8.0.0_x64__8wekyb3d8bbwe+App“ wurd
 --------------------
 
 
-Event Date/Time:  06/20/17 09:48:00
+Event Date/Time:  06/20/17 20:49:50
 
 Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
 
-Record #59617
+Record #59769
 
 Source: igfxCUIService1.0.0.0
 
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Received Post Shell Event 8\n'.>
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Received Post Shell Event 2\n'.>
 
 --------------------
 
 
-Event Date/Time:  06/20/17 09:48:00
+Event Date/Time:  06/20/17 20:49:50
 
 Event ID / Type:  6000 / EVENTLOG_INFORMATION_TYPE
 
-Record #59616
+Record #59768
 
 Source: Wlclntfy
 
@@ -2346,24 +415,24 @@ Der Winlogon-Benachrichtigungsabonnent <SessionEnv> war nicht verfügbar, um das
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:58
+Event Date/Time:  06/20/17 20:49:50
 
 Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
 
-Record #59615
+Record #59767
 
 Source: igfxCUIService1.0.0.0
 
-<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Logon: 8\n'.>
+<The description for Event ID ( 0 ) in Source ( u'igfxCUIService1.0.0.0' ) could not be found. It contains the following insertion string(s):u'Logon: 2\n'.>
 
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:58
+Event Date/Time:  06/20/17 20:49:50
 
 Event ID / Type:  0 / EVENTLOG_INFORMATION_TYPE
 
-Record #59614
+Record #59766
 
 Source: igfxCUIService1.0.0.0
 
@@ -2372,11 +441,11 @@ Source: igfxCUIService1.0.0.0
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:57
+Event Date/Time:  06/20/17 20:49:46
 
 Event ID / Type:  6003 / EVENTLOG_INFORMATION_TYPE
 
-Record #59613
+Record #59765
 
 Source: Wlclntfy
 

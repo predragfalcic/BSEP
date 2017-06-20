@@ -1,1854 +1,30 @@
 
  None Log of System Events 
 --------------------
- Created: Tue Jun 20 13:22:09 2017
+ Created: Tue Jun 20 23:41:34 2017
 
 --------------------
 --------------------
 
-Event Date/Time:  06/20/17 13:13:05
+Event Date/Time:  06/20/17 23:25:28
 
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  1500 / EVENTLOG_INFORMATION_TYPE
 
-Record #38798
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:12:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38797
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:11:26
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38796
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:10:23
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38795
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:08:51
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38794
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:08:22
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38793
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:05:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38792
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:04:18
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38791
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:03:45
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38790
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 13:03:29
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38789
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:56:15
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38788
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:55:56
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38787
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:54:03
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38786
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:53:46
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38785
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:53:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38784
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:53:22
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38783
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:53:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38782
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:52:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38781
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:51:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38780
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:50:43
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38779
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:50:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38778
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:50:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38777
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:48:51
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38776
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:48:10
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38775
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:48:09
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38774
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:47:45
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38773
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:47:36
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38772
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:47:20
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38771
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:42:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38770
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:40:58
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38769
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:40:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38768
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:40:30
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38767
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:40:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38766
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:39:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38765
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:37:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38764
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:37:19
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38763
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:35:25
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38762
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:35:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38761
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:35:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38760
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:34:46
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38759
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:34:42
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38758
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:34:15
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38757
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:31:15
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38756
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:31:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38755
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:30:37
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38754
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:30:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38753
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:29:24
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38752
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:29:05
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38751
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:26:49
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38750
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:26:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38749
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:25:52
-
-Event ID / Type:  1501 / EVENTLOG_INFORMATION_TYPE
-
-Record #38748
+Record #38863
 
 Source: Microsoft-Windows-GroupPolicy
 
-Die Gruppenrichtlinieneinstellungen für den Benutzer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
+Die Gruppenrichtlinieneinstellungen für den Computer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 12:25:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38747
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:24:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38746
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:24:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38745
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:23:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38744
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:22:16
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38743
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:22:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38742
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:20:53
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38741
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:20:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38740
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:19:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38739
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:19:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38738
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:18:50
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38737
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:17:34
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38736
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:17:27
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38735
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:17:10
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38734
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:15:36
-
-Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
-
-Record #38733
-
-Source: Microsoft-Windows-DNS-Client
-
-Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
- mit den folgenden Einstellungen:
-
-
-          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
-
-          Hostname: HADBELONIC
-
-          Primäres Domänensuffix: vbs
-
-          DNS-Serverliste: 
-
-            	192.168.0.1
-
-          Server, an den das Update gesendet wurde: <?>
-
-          IP-Adresse(n) :
-
-            192.168.0.12
-
-Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
-
-Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:12:58
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38732
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:12:20
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38731
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:11:18
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38730
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:10:44
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38729
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:09:50
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38728
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:09:26
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38727
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:09:03
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38726
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:08:25
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38725
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:08:14
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38724
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:07:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38723
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:06:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38722
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:06:12
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38721
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:06:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38720
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:05:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38719
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:04:37
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38718
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:04:22
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38717
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:03:58
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38716
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:03:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38715
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:02:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38714
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:02:12
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38713
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:00:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38712
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:00:06
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38711
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 12:00:00
-
-Event ID / Type:  6013 / EVENTLOG_INFORMATION_TYPE
-
-Record #38710
-
-Source: EventLog
-
-Die aktive Systemzeit ist 1350 Sekunden.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:58:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38709
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:58:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38708
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:58:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38707
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:58:03
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38706
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:57:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38705
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:57:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38704
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:56:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38703
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:56:36
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38702
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:56:34
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38701
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:56:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38700
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:56:11
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38699
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:55:14
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38698
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:55:06
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38697
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:54:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38696
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:53:59
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38695
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:53:38
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38694
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:51:20
-
-Event ID / Type:  7045 / EVENTLOG_INFORMATION_TYPE
-
-Record #38693
-
-Source: Service Control Manager
-
-Im System wurde ein Dienst installiert.
-
-Dienstname:  MpKsl782a82f1
-Dienstdateiname:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{C617F9D4-AEDC-45E2-8BBF-F40960D41F42}\MpKsl782a82f1.sys
-Diensttyp:  Kernelmodustreiber
-Dienststarttyp:  Systemstart
-Dienstkonto:  
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:50:02
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38692
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Definitionsupdate für Windows Defender – KB2267602 (Definition 1.245.1091.0)
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:49:16
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38691
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:48:58
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38690
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Definitionsupdate für Windows Defender – KB2267602 (Definition 1.245.1091.0)
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:48:58
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38689
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:48:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38688
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:48:48
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38687
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:48:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38686
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:47:53
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38685
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:47:26
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38684
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:47:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38683
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:46:06
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38682
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Enpass
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:46:02
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38681
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:46:00
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38680
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Enpass
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:45:56
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38679
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:45:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38678
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:45:26
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38677
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:45:09
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38676
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 6212) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:41:05
-
-Event ID / Type:  5719 / EVENTLOG_ERROR_TYPE
-
-Record #38675
-
-Source: NETLOGON
-
-Der Computer konnte eine sichere Sitzung mit einem
-Domänencontroller in der Domäne VBS aufgrund der folgenden
-Ursache nicht einrichten: 
-%%1311
-
-Dies kann zu Authentifizierungsproblemen führen. Stellen
-Sie sicher, dass der Computer mit dem Netzwerk verbunden ist.
-Wenden Sie sich an den Domänenadministrator, wenn das Problem
-weiterhin besteht.
-
-
-
-ZUSÄTZLICHE INFORMATIONEN
-
-Wenn dieser Computer ein Domänencontroller der bestimmten
-Domäne ist, wird eine sichere Sitzung zum primären
-Domänencontrolleremulator in der bestimmten Domäne eingerichtet.
-Andernfalls richtet dieser Computer eine sichere Sitzung zu
-einem beliebigen Domänencontroller in der bestimmten Domäne ein.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:40:58
-
-Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
-
-Record #38674
-
-Source: Lfsvc
-
-Die Geolocation-Ortung ist aktiviert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:39:57
-
-Event ID / Type:  10010 / EVENTLOG_ERROR_TYPE
-
-Record #38673
-
-Source: DCOM
-
-<The description for Event ID ( 10010 ) in Source ( u'DCOM' ) could not be found. It contains the following insertion string(s):u'App'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:53
-
-Event ID / Type:  7000 / EVENTLOG_ERROR_TYPE
-
-Record #38672
-
-Source: Service Control Manager
-
-Der Dienst "Windows Presentation Foundation-Schriftartcache 3.0.0.0" wurde aufgrund folgenden Fehlers nicht gestartet: 
-%%1053
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:52
-
-Event ID / Type:  7009 / EVENTLOG_ERROR_TYPE
-
-Record #38671
-
-Source: Service Control Manager
-
-Das Zeitlimit (30000 ms) wurde beim Verbindungsversuch mit dem Dienst FontCache3.0.0.0 erreicht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:27
+Event Date/Time:  06/20/17 23:25:28
 
 Event ID / Type:  1129 / EVENTLOG_ERROR_TYPE
 
-Record #38670
+Record #38862
 
 Source: Microsoft-Windows-GroupPolicy
 
@@ -1858,1224 +34,263 @@ Bei der Verarbeitung der Gruppenrichtlinie ist aufgrund fehlender Netzwerkkonnek
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:25
+Event Date/Time:  06/20/17 23:23:40
 
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38669
+Record #38861
 
-Source: Microsoft-Windows-Kernel-General
+Source: Microsoft-Windows-UserModePowerService
 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:24
-
-Event ID / Type:  10016 / EVENTLOG_ERROR_TYPE
-
-Record #38668
-
-Source: DCOM
-
-<The description for Event ID ( 10016 ) in Source ( u'DCOM' ) could not be found. It contains the following insertion string(s):u'Anwendungsspezifisch, Lokal, Aktivierung, {8D8F4F83-3594-4F07-8369-FC3C3CAE4919}, {F72671A9-012C-4725-9D2F-2A4D32D65169}, NT-AUTORIT\xc4T, SYSTEM, S-1-5-18, LocalHost (unter Verwendung von LRPC), Nicht verf\xfcgbar, Nicht verf\xfcgbar'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:21
-
-Event ID / Type:  7026 / EVENTLOG_INFORMATION_TYPE
-
-Record #38667
-
-Source: Service Control Manager
-
-Der folgende Boot- oder Systemstarttreiber konnte nicht geladen werden: 
-dam
-VBoxNetAdp
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:16
+Event Date/Time:  06/20/17 23:23:19
 
-Event ID / Type:  7001 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38666
+Record #38860
 
-Source: Microsoft-Windows-Winlogon
+Source: Microsoft-Windows-UserModePowerService
 
-Benutzeranmeldebenachrichtigung für Programm zur Verbesserung der Benutzerfreundlichkeit
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:15
-
-Event ID / Type:  158 / EVENTLOG_INFORMATION_TYPE
-
-Record #38665
-
-Source: Microsoft-Windows-Time-Service
-
-Der Zeitanbieter 'VMICTimeProvider' hat angegeben, dass die aktuelle Hardware- und Betriebssystemumgebung nicht unterstützt wird und beendet wurde. Dieses Verhalten wird für VMICTimeProvider in Nicht-HyperV-Gastumgebungen erwartet. Dies kann auch das vom aktuellen Anbieter erwartete Verhalten in der aktuellen Betriebsumgebung sein.
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:14
+Event Date/Time:  06/20/17 23:23:17
 
-Event ID / Type:  11 / EVENTLOG_WARNING_TYPE
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38664
+Record #38859
 
-Source: Microsoft-Windows-Wininit
+Source: Microsoft-Windows-UserModePowerService
 
-Benutzerdefinierte DLLs werden für jede Anwendung geladen. Der Systemadministrator sollte die Liste der DLLs prüfen, um sicherzustellen, dass sie sich auf die vertrauenswürdigen Anwendungen beziehen. Weitere Informationen finden Sie unter "http://support.microsoft.com/kb/197571".
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:38:14
+Event Date/Time:  06/20/17 23:23:01
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38858
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:22:36
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38857
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:22:20
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38856
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:21:59
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38855
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:21:44
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38854
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:21:03
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38853
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:20:46
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38852
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:19:52
+
+Event ID / Type:  1501 / EVENTLOG_INFORMATION_TYPE
+
+Record #38851
+
+Source: Microsoft-Windows-GroupPolicy
+
+Die Gruppenrichtlinieneinstellungen für den Benutzer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:18:59
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38850
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 23:18:34
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38849
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:44:29
+
+Event ID / Type:  1500 / EVENTLOG_INFORMATION_TYPE
+
+Record #38848
+
+Source: Microsoft-Windows-GroupPolicy
+
+Die Gruppenrichtlinieneinstellungen für den Computer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:44:29
+
+Event ID / Type:  1129 / EVENTLOG_ERROR_TYPE
+
+Record #38847
+
+Source: Microsoft-Windows-GroupPolicy
+
+Bei der Verarbeitung der Gruppenrichtlinie ist aufgrund fehlender Netzwerkkonnektivität mit einem Domänencontroller ein Fehler aufgetreten. Dies kann eine vorübergehende Bedingung sein. Es wird eine Erfolgsmeldung generiert, wenn die Verbindung des Computers mit dem Domänencontroller wiederhergestellt wurde und wenn die Gruppenrichtlinie erfolgreich verarbeitet wurde. Falls für mehrere Stunden keine Erfolgsmeldung angezeigt wird, wenden Sie sich an den Administrator.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:30:52
+
+Event ID / Type:  1501 / EVENTLOG_INFORMATION_TYPE
+
+Record #38846
+
+Source: Microsoft-Windows-GroupPolicy
+
+Die Gruppenrichtlinieneinstellungen für den Benutzer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:10:59
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38845
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:10:44
+
+Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
+
+Record #38844
+
+Source: Microsoft-Windows-UserModePowerService
+
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:08:02
 
 Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
 
-Record #38663
-
-Source: Microsoft-Windows-DNS-Client
-
-Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
- mit den folgenden Einstellungen:
-
-
-          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
-
-          Hostname: HADBELONIC
-
-          Primäres Domänensuffix: vbs
-
-          DNS-Serverliste: 
-
-            	192.168.0.1
-
-          Server, an den das Update gesendet wurde: <?>
-
-          IP-Adresse(n) :
-
-            192.168.0.12
-
-Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
-
-Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:08
-
-Event ID / Type:  414 / EVENTLOG_WARNING_TYPE
-
-Record #38662
-
-Source: Microsoft-Windows-TaskScheduler
-
-Der Aufgabenplanungsdienst hat eine fehlerhafte Konfiguration in Definition NT TASK\OneDrive Standalone Update Task v2gefunden. Zusätzliche Daten: Fehlerwert: %localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  414 / EVENTLOG_WARNING_TYPE
-
-Record #38661
-
-Source: Microsoft-Windows-TaskScheduler
-
-Der Aufgabenplanungsdienst hat eine fehlerhafte Konfiguration in Definition NT TASK\Apple\AppleSoftwareUpdategefunden. Zusätzliche Daten: Fehlerwert: C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  7000 / EVENTLOG_ERROR_TYPE
-
-Record #38660
-
-Source: Service Control Manager
-
-Der Dienst "mts mobilni internet. RunOuc" wurde aufgrund folgenden Fehlers nicht gestartet: 
-%%1053
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  7009 / EVENTLOG_ERROR_TYPE
-
-Record #38659
-
-Source: Service Control Manager
-
-Das Zeitlimit (30000 ms) wurde beim Verbindungsversuch mit dem Dienst mts mobilni internet. RunOuc erreicht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  414 / EVENTLOG_WARNING_TYPE
-
-Record #38658
-
-Source: Microsoft-Windows-TaskScheduler
-
-Der Aufgabenplanungsdienst hat eine fehlerhafte Konfiguration in Definition NT TASK\Microsoft\Office\Office 15 Subscription Heartbeatgefunden. Zusätzliche Daten: Fehlerwert: %ProgramFiles%\Common Files\Microsoft Shared\Office15\OLicenseHeartbeat.exe.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:07
-
-Event ID / Type:  414 / EVENTLOG_WARNING_TYPE
-
-Record #38657
-
-Source: Microsoft-Windows-TaskScheduler
-
-Der Aufgabenplanungsdienst hat eine fehlerhafte Konfiguration in Definition NT TASK\CreateChoiceProcessTaskgefunden. Zusätzliche Daten: Fehlerwert: C:\Windows\BrowserChoice\browserchoice.exe.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:06
-
-Event ID / Type:  7000 / EVENTLOG_ERROR_TYPE
-
-Record #38656
-
-Source: Service Control Manager
-
-Der Dienst "nvUpdatusService" wurde aufgrund folgenden Fehlers nicht gestartet: 
-%%1069
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:06
-
-Event ID / Type:  7038 / EVENTLOG_ERROR_TYPE
-
-Record #38655
-
-Source: Service Control Manager
-
-Der Dienst "nvUpdatusService" konnte sich nicht als ".\UpdatusUser" mit dem aktuellen Kennwort aufgrund des folgenden Fehlers anmelden: 
-%%1326
-
-Vergewissern Sie sich, dass der Dienst richtig konfiguriert ist im Dienste-Snap-In in der Microsoft Management Console (MMC).
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:06
-
-Event ID / Type:  4000 / EVENTLOG_INFORMATION_TYPE
-
-Record #38654
-
-Source: Microsoft-Windows-WLAN-AutoConfig
-
-Der Dienst für die automatische WLAN-Konfiguration wurde erfolgreich gestartet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38653
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  7000 / EVENTLOG_ERROR_TYPE
-
-Record #38652
-
-Source: Service Control Manager
-
-Der Dienst "GuardX" wurde aufgrund folgenden Fehlers nicht gestartet: 
-%%2
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38651
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "wcnfs" (10.0, 2016-07-16T04:28:27.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38650
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "storqosflt" (10.0, 2016-07-16T04:26:43.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38649
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "wcifs" (10.0, 2016-07-16T04:27:16.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38648
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "luafv" (10.0, 2016-07-16T04:21:48.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  51046 / EVENTLOG_INFORMATION_TYPE
-
-Record #38647
-
-Source: Microsoft-Windows-DHCPv6-Client
-
-Der DHCPv6-Clientdienst wird gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  50036 / EVENTLOG_INFORMATION_TYPE
-
-Record #38646
-
-Source: Microsoft-Windows-Dhcp-Client
-
-Der DHCPv4-Clientdienst wird gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  701 / EVENTLOG_ERROR_TYPE
-
-Record #38645
-
-Source: Microsoft-Windows-TaskScheduler
-
-Die Aufgabenplanungdienst konnte das Aufgabenkompatibilitätsmodul nicht starten. Unter älteren Windows-Versionen können Aufgaben möglicherweise nicht registriert werden. Zusätzliche Daten: Fehlerwert: 2147942405
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38644
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38643
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38642
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:04
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38641
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:04
-
-Event ID / Type:  16962 / EVENTLOG_INFORMATION_TYPE
-
-Record #38640
-
-Source: Microsoft-Windows-Directory-Services-SAM
-
-Remoteaufrufe an die SAM-Datenbank werden mit der Standardsicherheitsbeschreibung eingeschränkt: O:SYG:SYD:(A;;RC;;;BA).
-Weitere Informationen finden Sie unter "http://go.microsoft.com/fwlink/?LinkId=787651".
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:04
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38639
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:04
-
-Event ID / Type:  14 / EVENTLOG_INFORMATION_TYPE
-
-Record #38638
-
-Source: Microsoft-Windows-Wininit
-
-Credential Guard-Konfiguration (LsaIso.exe): 0, 0
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:57
-
-Event ID / Type:  219 / EVENTLOG_WARNING_TYPE
-
-Record #38637
-
-Source: Microsoft-Windows-Kernel-PnP
-
-Fehler beim Laden des Treibers \Driver\WUDFRd für das Gerät {C5A047D8-CB5B-40E9-B9E3-316AB06B5A18}\WirelessKeyboardFilter\8&1b48d3b8&0&01.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:57
-
-Event ID / Type:  10114 / EVENTLOG_INFORMATION_TYPE
-
-Record #38636
-
-Source: Microsoft-Windows-DriverFrameworks-UserMode
-
-WUDFPf wurde (als Bestandteil von UMDF) noch nicht geladen. Nach abgeschlossenem Ladevorgang wird das Gerät von Windows erneut gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:56
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38635
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:56
-
-Event ID / Type:  15 / EVENTLOG_INFORMATION_TYPE
-
-Record #38634
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  55 / EVENTLOG_INFORMATION_TYPE
-
-Record #38633
-
-Source: Microsoft-Windows-Kernel-Processor-Power
-
-Vom logischen Hyper-V-Prozessor "3" werden die folgenden Energieverwaltungsfunktionen verfügbar gemacht:
-
-Art des Leerlaufzustands: 1 (3 Zustand/Zustände)
-
-Art des Leistungszustands: 1
-Nominale Frequenz (MHz): 1801
-Höchste Leistung in Prozent: 100
-Geringste Leistung in Prozent: 42
-Geringste Drosselung in Prozent: 42
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  55 / EVENTLOG_INFORMATION_TYPE
-
-Record #38632
-
-Source: Microsoft-Windows-Kernel-Processor-Power
-
-Vom logischen Hyper-V-Prozessor "1" werden die folgenden Energieverwaltungsfunktionen verfügbar gemacht:
-
-Art des Leerlaufzustands: 1 (3 Zustand/Zustände)
-
-Art des Leistungszustands: 1
-Nominale Frequenz (MHz): 1801
-Höchste Leistung in Prozent: 100
-Geringste Leistung in Prozent: 42
-Geringste Drosselung in Prozent: 42
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  55 / EVENTLOG_INFORMATION_TYPE
-
-Record #38631
-
-Source: Microsoft-Windows-Kernel-Processor-Power
-
-Vom logischen Hyper-V-Prozessor "2" werden die folgenden Energieverwaltungsfunktionen verfügbar gemacht:
-
-Art des Leerlaufzustands: 1 (3 Zustand/Zustände)
-
-Art des Leistungszustands: 1
-Nominale Frequenz (MHz): 1801
-Höchste Leistung in Prozent: 100
-Geringste Leistung in Prozent: 42
-Geringste Drosselung in Prozent: 42
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  55 / EVENTLOG_INFORMATION_TYPE
-
-Record #38630
-
-Source: Microsoft-Windows-Kernel-Processor-Power
-
-Vom logischen Hyper-V-Prozessor "0" werden die folgenden Energieverwaltungsfunktionen verfügbar gemacht:
-
-Art des Leerlaufzustands: 1 (3 Zustand/Zustände)
-
-Art des Leistungszustands: 1
-Nominale Frequenz (MHz): 1801
-Höchste Leistung in Prozent: 100
-Geringste Leistung in Prozent: 42
-Geringste Drosselung in Prozent: 42
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  98 / EVENTLOG_INFORMATION_TYPE
-
-Record #38629
-
-Source: Microsoft-Windows-Ntfs
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:51
-
-Event ID / Type:  98 / EVENTLOG_INFORMATION_TYPE
-
-Record #38628
-
-Source: Microsoft-Windows-Ntfs
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:50
-
-Event ID / Type:  2 / EVENTLOG_INFORMATION_TYPE
-
-Record #38627
-
-Source: MEIx64
-
-Intel(R) Management Engine Interface driver has started successfully.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:38
-
-Event ID / Type:  172 / EVENTLOG_INFORMATION_TYPE
-
-Record #38626
-
-Source: Microsoft-Windows-Kernel-Power
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:37
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38625
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "npsvctrig" (10.0, 2016-07-16T04:28:33.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:37
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38624
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "FileCrypt" (10.0, 2016-07-16T04:22:39.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:36
-
-Event ID / Type:  98 / EVENTLOG_INFORMATION_TYPE
-
-Record #38623
-
-Source: Microsoft-Windows-Ntfs
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:33
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38622
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "WdFilter" (10.0, 2016-07-16T04:25:21.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:33
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38621
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "Wof" (10.0, 2016-07-16T04:27:07.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:33
-
-Event ID / Type:  6 / EVENTLOG_INFORMATION_TYPE
-
-Record #38620
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "FileInfo" (10.0, 2016-07-16T04:26:05.000000000Z) wurde erfolgreich geladen und im Filter-Manager registriert.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  30 / EVENTLOG_INFORMATION_TYPE
-
-Record #38619
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  32 / EVENTLOG_INFORMATION_TYPE
-
-Record #38618
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  18 / EVENTLOG_INFORMATION_TYPE
-
-Record #38617
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  25 / EVENTLOG_INFORMATION_TYPE
-
-Record #38616
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  27 / EVENTLOG_INFORMATION_TYPE
-
-Record #38615
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  20 / EVENTLOG_INFORMATION_TYPE
-
-Record #38614
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  153 / EVENTLOG_INFORMATION_TYPE
-
-Record #38613
-
-Source: Microsoft-Windows-Kernel-Boot
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38612
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:37:07
-
-Event ID / Type:  13 / EVENTLOG_INFORMATION_TYPE
-
-Record #38611
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:44
-
-Event ID / Type:  4001 / EVENTLOG_INFORMATION_TYPE
-
-Record #38610
-
-Source: Microsoft-Windows-WLAN-AutoConfig
-
-Der Dienst für die automatische WLAN-Konfiguration wurde erfolgreich beendet.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:43
-
-Event ID / Type:  109 / EVENTLOG_INFORMATION_TYPE
-
-Record #38609
-
-Source: Microsoft-Windows-Kernel-Power
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6013 / EVENTLOG_INFORMATION_TYPE
-
-Record #38608
-
-Source: EventLog
-
-Die aktive Systemzeit ist 35 Sekunden.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6005 / EVENTLOG_INFORMATION_TYPE
-
-Record #38607
-
-Source: EventLog
-
-Der Ereignisprotokolldienst wurde gestartet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:38:05
-
-Event ID / Type:  6009 / EVENTLOG_INFORMATION_TYPE
-
-Record #38606
-
-Source: EventLog
-
-Microsoft (R) Windows (R) 10.00. 14393  Multiprocessor Free.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:38
-
-Event ID / Type:  6006 / EVENTLOG_INFORMATION_TYPE
-
-Record #38605
-
-Source: EventLog
-
-Der Ereignisprotokolldienst wurde beendet.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:35
-
-Event ID / Type:  51047 / EVENTLOG_INFORMATION_TYPE
-
-Record #38604
-
-Source: Microsoft-Windows-DHCPv6-Client
-
-Der DHCPv6-Clientdienst wird beendet. Der ShutDown-Kennzeichenwert lautet 1.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:35
-
-Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
-
-Record #38603
-
-Source: Microsoft-Windows-Kernel-General
-
-Mögliche CVE-Erkennung: 2017-06-20T09:36:35.807000000Z
-Zusätzliche Informationen: 2017-06-20T09:36:35.813374500Z
-
-Dieses Ereignis wird generiert, wenn eine bekannte Exploit-Sicherheitslücke (2017-06-20T09:36:35.807000000Z) erkannt wird. 
-Dieses Ereignis wird durch einen Benutzermodusprozess ausgelöst.
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:36:32
-
-Event ID / Type:  7002 / EVENTLOG_INFORMATION_TYPE
-
-Record #38602
-
-Source: Microsoft-Windows-Winlogon
-
-Benutzerabmeldebenachrichtigung für Programm zur Verbesserung der Benutzerfreundlichkeit
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38601
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:34:05
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38600
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:48
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38599
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:05
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38598
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:31:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38597
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:30:43
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38596
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:30:36
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38595
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:30:06
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38594
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:29:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38593
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:29:07
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38592
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:29:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38591
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:28:23
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38590
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:28:18
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38589
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:27:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38588
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8316) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:27:48
-
-Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
-
-Record #38587
-
-Source: Microsoft-Windows-Power-Troubleshooter
-
-Das System wurde aus einem Standbymodus reaktiviert.
-
-Zeit im Energiesparmodus: 2017-06-20T09:26:54.410761000Z
-Reaktivierungszeit: 2017-06-20T09:27:39.061173200Z
-
-Reaktivierungsquelle: 1
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:27:40
-
-Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
-
-Record #38586
+Record #38843
 
 Source: Microsoft-Windows-DNS-Client
 
@@ -3107,56 +322,111 @@ Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Ei
 --------------------
 
 
-Event Date/Time:  06/20/17 11:27:38
+Event Date/Time:  06/20/17 21:07:53
 
-Event ID / Type:  131 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
 
-Record #38585
+Record #38842
 
-Source: Microsoft-Windows-Kernel-Power
+Source: Microsoft-Windows-DNS-Client
 
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:27:38
-
-Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
-
-Record #38584
-
-Source: Microsoft-Windows-Kernel-General
-
-Mögliche CVE-Erkennung: 2017-06-20T09:27:38.500000000Z
-Zusätzliche Informationen: 2017-06-20T09:27:00.919043700Z
-
-Dieses Ereignis wird generiert, wenn eine bekannte Exploit-Sicherheitslücke (2017-06-20T09:27:38.500000000Z) erkannt wird. 
-Dieses Ereignis wird durch einen Benutzermodusprozess ausgelöst.
+Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
+ mit den folgenden Einstellungen:
 
 
+          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
 
---------------------
+          Hostname: HADBELONIC
 
+          Primäres Domänensuffix: vbs
 
-Event Date/Time:  06/20/17 11:27:00
+          DNS-Serverliste: 
 
-Event ID / Type:  107 / EVENTLOG_INFORMATION_TYPE
+            	192.168.0.1
 
-Record #38583
+          Server, an den das Update gesendet wurde: <?>
 
-Source: Microsoft-Windows-Kernel-Power
+          IP-Adresse(n) :
 
+            2a02:8388:2781:f200:40f7:f28f:8e8e:4a96, 192.168.0.12
+
+Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
+
+Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:27:38
+Event Date/Time:  06/20/17 21:07:43
+
+Event ID / Type:  20001 / EVENTLOG_INFORMATION_TYPE
+
+Record #38841
+
+Source: Microsoft-Windows-UserPnp
+
+Der Prozess zum Installieren von Treiber ksfilter.inf_amd64_4b7251a1d691f0ad\ksfilter.inf für Geräteinstanz-ID SW\{97EBAACC-95BD-11D0-A3EA-00A0C9223196}\{53172480-4791-11D0-A5D6-28DB04C10000} wurde mit folgendem Status beendet: 0x0.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:07:43
+
+Event ID / Type:  20003 / EVENTLOG_INFORMATION_TYPE
+
+Record #38840
+
+Source: Microsoft-Windows-UserPnp
+
+Der Prozess zum Hinzufügen von Dienst MSPCLOCK für Geräteinstanz-ID SW\{97EBAACC-95BD-11D0-A3EA-00A0C9223196}\{53172480-4791-11D0-A5D6-28DB04C10000} wurde mit folgendem Status beendet: 0.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:07:27
+
+Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
+
+Record #38839
+
+Source: Microsoft-Windows-DNS-Client
+
+Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
+ mit den folgenden Einstellungen:
+
+
+          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
+
+          Hostname: HADBELONIC
+
+          Primäres Domänensuffix: vbs
+
+          DNS-Serverliste: 
+
+            	192.168.0.1
+
+          Server, an den das Update gesendet wurde: <?>
+
+          IP-Adresse(n) :
+
+            2a02:8388:2781:f200:40f7:f28f:8e8e:4a96, 192.168.0.12
+
+Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
+
+Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 21:05:37
 
 Event ID / Type:  8033 / EVENTLOG_INFORMATION_TYPE
 
-Record #38582
+Record #38838
 
 Source: BROWSER
 
@@ -3166,3250 +436,73 @@ Der Suchdienst hat eine Wahl auf dem Netzwerk "\Device\NetBT_Tcpip_{81DCE17E-DA2
 --------------------
 
 
-Event Date/Time:  06/20/17 11:26:59
+Event Date/Time:  06/20/17 21:05:07
 
-Event ID / Type:  42 / EVENTLOG_INFORMATION_TYPE
+Event ID / Type:  1014 / EVENTLOG_WARNING_TYPE
 
-Record #38581
+Record #38837
 
-Source: Microsoft-Windows-Kernel-Power
+Source: Microsoft-Windows-DNS-Client
 
+Zeitüberschreitung bei der Namensauflösung für den Namen play.google.com, nachdem keiner der konfigurierten DNS-Server geantwortet hat.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 11:23:48
+Event Date/Time:  06/20/17 21:00:29
 
-Event ID / Type:  10016 / EVENTLOG_ERROR_TYPE
-
-Record #38580
-
-Source: DCOM
-
-<The description for Event ID ( 10016 ) in Source ( u'DCOM' ) could not be found. It contains the following insertion string(s):u'Anwendungsspezifisch, Lokal, Aktivierung, {D63B10C5-BB46-4990-A94F-E40B9D520160}, {9CA88EE3-ACB7-47C8-AFC4-AB702511C276}, NT-AUTORIT\xc4T, SYSTEM, S-1-5-18, LocalHost (unter Verwendung von LRPC), Nicht verf\xfcgbar, Nicht verf\xfcgbar'.>
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:12:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38579
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:11:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38578
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:11:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38577
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:11:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38576
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:51
-
-Event ID / Type:  4 / EVENTLOG_WARNING_TYPE
-
-Record #38575
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "wcifs" (Version 10.0, 2016-07-16T04:27:16.000000000Z) konnte keine Verbindung mit dem Volume "\Device\HarddiskVolumeShadowCopy7" herstellen. Der Filter hat einen nicht-standardmäßigen letzten Status "0xc000000d" zurückgegeben. Diese Bedingung sollte von diesem Filter und/oder den unterstützenden Anwendungen behandelt werden. Wenden Sie sich an den Hersteller, wenn diese Bedingung weiterhin besteht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:08
-
-Event ID / Type:  4 / EVENTLOG_WARNING_TYPE
-
-Record #38574
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "wcifs" (Version 10.0, 2016-07-16T04:27:16.000000000Z) konnte keine Verbindung mit dem Volume "\Device\HarddiskVolumeShadowCopy7" herstellen. Der Filter hat einen nicht-standardmäßigen letzten Status "0xc000000d" zurückgegeben. Diese Bedingung sollte von diesem Filter und/oder den unterstützenden Anwendungen behandelt werden. Wenden Sie sich an den Hersteller, wenn diese Bedingung weiterhin besteht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:08
-
-Event ID / Type:  98 / EVENTLOG_INFORMATION_TYPE
-
-Record #38573
-
-Source: Microsoft-Windows-Ntfs
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:09:05
-
-Event ID / Type:  4 / EVENTLOG_WARNING_TYPE
-
-Record #38572
-
-Source: Microsoft-Windows-FilterManager
-
-Der Dateisystemfilter "wcifs" (Version 10.0, 2016-07-16T04:27:16.000000000Z) konnte keine Verbindung mit dem Volume "\Device\HarddiskVolumeShadowCopy7" herstellen. Der Filter hat einen nicht-standardmäßigen letzten Status "0xc000000d" zurückgegeben. Diese Bedingung sollte von diesem Filter und/oder den unterstützenden Anwendungen behandelt werden. Wenden Sie sich an den Hersteller, wenn diese Bedingung weiterhin besteht.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:08:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38571
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:07:09
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38570
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:06:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38569
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:06:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38568
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:05:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38567
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:05:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38566
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:05:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38565
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:04:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38564
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:03:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38563
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:02:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38562
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:01:15
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38561
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:00:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38560
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:00:20
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38559
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 11:00:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38558
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:56:49
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38557
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:55:25
-
 Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38556
+Record #38836
 
 Source: Microsoft-Windows-UserModePowerService
 
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 10:54:51
+Event Date/Time:  06/20/17 21:00:05
 
 Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38555
+Record #38835
 
 Source: Microsoft-Windows-UserModePowerService
 
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
+Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 8840) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
 
 
 --------------------
-
-
-Event Date/Time:  06/20/17 10:54:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
 
-Record #38554
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:54:24
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38553
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:53:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38552
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:53:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38551
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:52:46
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38550
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:52:44
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38549
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:52:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38548
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:52:05
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38547
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:49:19
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38546
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:48:48
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38545
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:48:16
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38544
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:47:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38543
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:47:11
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38542
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:47:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38541
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:46:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38540
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:46:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38539
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:46:22
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38538
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:45:35
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38537
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:45:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38536
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:44:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38535
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:44:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38534
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:43:51
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38533
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:43:34
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38532
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:43:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38531
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:42:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38530
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:42:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38529
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:42:02
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38528
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:41:36
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38527
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:41:06
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38526
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:40:48
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38525
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:40:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38524
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:40:13
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38523
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:39:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38522
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:39:30
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38521
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:39:14
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38520
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:38:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38519
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:37:51
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38518
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:37:49
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38517
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:37:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38516
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:37:27
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38515
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:36:53
-
-Event ID / Type:  1501 / EVENTLOG_INFORMATION_TYPE
-
-Record #38514
-
-Source: Microsoft-Windows-GroupPolicy
-
-Die Gruppenrichtlinieneinstellungen für den Benutzer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:36:45
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38513
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:36:10
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38512
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:35:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38511
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:35:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38510
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:34:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38509
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:33:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38508
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:33:07
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38507
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:33:04
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38506
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:32:14
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38505
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:31:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38504
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:31:37
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38503
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:30:54
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38502
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:29:44
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38501
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:29:23
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38500
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:29:06
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38499
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:29:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38498
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:28:16
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38497
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:27:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38496
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:27:24
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38495
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:27:11
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38494
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:26:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38493
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:26:38
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38492
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:26:22
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38491
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:26:12
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38490
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:25:44
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38489
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:24:17
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38488
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:24:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38487
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:23:55
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38486
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:23:26
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38485
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:23:10
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38484
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:22:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38483
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:20:09
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38482
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:19:30
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38481
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:19:21
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38480
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:19:00
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38479
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:18:56
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38478
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:18:41
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38477
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:18:02
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38476
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:17:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38475
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:16:58
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38474
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:16:03
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38473
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:15:51
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38472
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:15:45
-
-Event ID / Type:  1500 / EVENTLOG_INFORMATION_TYPE
-
-Record #38471
-
-Source: Microsoft-Windows-GroupPolicy
-
-Die Gruppenrichtlinieneinstellungen für den Computer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:15:45
-
-Event ID / Type:  1129 / EVENTLOG_ERROR_TYPE
-
-Record #38470
-
-Source: Microsoft-Windows-GroupPolicy
-
-Bei der Verarbeitung der Gruppenrichtlinie ist aufgrund fehlender Netzwerkkonnektivität mit einem Domänencontroller ein Fehler aufgetreten. Dies kann eine vorübergehende Bedingung sein. Es wird eine Erfolgsmeldung generiert, wenn die Verbindung des Computers mit dem Domänencontroller wiederhergestellt wurde und wenn die Gruppenrichtlinie erfolgreich verarbeitet wurde. Falls für mehrere Stunden keine Erfolgsmeldung angezeigt wird, wenden Sie sich an den Administrator.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:15:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38469
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:15:03
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38468
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:14:45
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38467
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:14:30
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38466
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:14:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38465
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:13:31
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38464
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:13:10
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38463
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:12:53
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38462
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:12:33
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38461
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:11:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38460
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:11:09
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38459
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:10:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38458
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:10:28
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38457
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:10:01
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38456
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:09:40
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38455
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:09:08
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38454
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:08:42
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38453
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:07:54
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38452
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:07:18
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38451
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:06:57
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38450
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:06:38
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38449
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:05:52
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38448
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:05:37
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38447
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:05:32
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38446
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:04:54
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38445
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:04:42
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38444
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:03:53
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38443
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:03:47
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38442
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:03:08
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38441
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft Sticky Notes
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:03:03
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38440
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft Sticky Notes
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:03:03
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38439
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft Photos
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:55
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38438
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft Photos
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:49
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38437
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:48
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38436
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:48
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38435
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Skype
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:46
-
-Event ID / Type:  12 / EVENTLOG_INFORMATION_TYPE
-
-Record #38434
-
-Source: Microsoft-Windows-UserModePowerService
-
-Vom Prozess "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPCenter.exe" (Prozess-ID: 4844) wurde das Richtlinienschema von "{381B4222-F694-41F0-9685-FF5BB260DF2E}" auf "{381B4222-F694-41F0-9685-FF5BB260DF2E}" zurückgesetzt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:42
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38433
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Skype
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:28
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38432
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:28
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38431
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. MSN Sports
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:21
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38430
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: MSN Sports
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:16
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38429
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:14
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38428
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:12
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38427
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Windows Camera
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:02:12
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38426
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Windows Camera
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:51
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38425
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:51
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38424
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Movies & TV
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:47
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38423
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Movies & TV
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:45
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38422
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:32
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38421
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:32
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38420
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Drawboard PDF
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:26
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38419
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:19
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38418
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:19
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38417
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Drawboard PDF
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:14
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38416
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft Tips
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:01:14
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38415
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft Tips
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:41
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38414
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:41
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38413
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Feedback Hub
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:41
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38412
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:36
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38411
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Feedback Hub
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:36
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38410
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Groove Music
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 10:00:36
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38409
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Groove Music
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:59
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38408
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:54
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38407
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Windows Voice Recorder
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:54
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38406
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:54
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38405
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Windows Voice Recorder
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:50
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38404
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Windows Maps
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:50
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38403
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Windows Maps
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:44
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38402
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:40
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38401
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Windows Calculator
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:40
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38400
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Windows Calculator
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:05
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38399
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:05
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38398
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Reader
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:59:05
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38397
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Reader
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:56:22
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38396
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:56:22
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38395
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. TuneIn Radio
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:56:15
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38394
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: TuneIn Radio
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:55
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38393
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:55
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38392
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. OneDrive
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:39
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38391
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: OneDrive
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:26
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38390
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:26
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38389
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Windows Alarms & Clock
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:55:08
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38388
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Windows Alarms & Clock
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:34
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38387
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:34
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38386
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Xbox
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:29
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38385
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Xbox
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:24
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38384
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:24
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38383
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft People
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:15
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38382
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft People
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:10
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38381
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:10
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38380
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. MSN Weather
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:54:04
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38379
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: MSN Weather
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:58
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38378
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:58
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38377
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Paid Wi-Fi & Cellular
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:53
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38376
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Paid Wi-Fi & Cellular
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:41
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38375
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:36
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38374
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft Solitaire Collection
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:36
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38373
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft Solitaire Collection
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:36
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38372
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Microsoft Advertising SDK for XAML
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:28
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38371
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Microsoft Advertising SDK for XAML
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:20
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38370
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:15
-
-Event ID / Type:  16 / EVENTLOG_INFORMATION_TYPE
-
-Record #38369
-
-Source: Microsoft-Windows-Kernel-General
-
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:53:08
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38368
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:47
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38367
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:42
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38366
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. 3D Builder
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:42
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38365
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: 3D Builder
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:37
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38364
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:37
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38363
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. MSN Travel
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:32
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38362
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:32
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38361
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: MSN Travel
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:32
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38360
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. Store
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:25
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38359
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:25
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38358
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: Store
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:25
-
-Event ID / Type:  19 / EVENTLOG_INFORMATION_TYPE
-
-Record #38357
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation erfolgreich: Das folgende Update wurde installiert. App Installer
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:52:20
-
-Event ID / Type:  43 / EVENTLOG_INFORMATION_TYPE
-
-Record #38356
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Installation gestartet: Windows hat mit der Installation des folgenden Updates begonnen: App Installer
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:51:34
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38355
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:51:34
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38354
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:51:30
-
-Event ID / Type:  44 / EVENTLOG_INFORMATION_TYPE
-
-Record #38353
-
-Source: Microsoft-Windows-WindowsUpdateClient
-
-Windows Update hat mit dem Herunterladen eines Updates begonnen.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:44
-
-Event ID / Type:  1501 / EVENTLOG_INFORMATION_TYPE
-
-Record #38352
-
-Source: Microsoft-Windows-GroupPolicy
-
-Die Gruppenrichtlinieneinstellungen für den Benutzer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
-
-
---------------------
-
-
-Event Date/Time:  06/20/17 09:50:44
-
-Event ID / Type:  1500 / EVENTLOG_INFORMATION_TYPE
-
-Record #38351
-
-Source: Microsoft-Windows-GroupPolicy
-
-Die Gruppenrichtlinieneinstellungen für den Computer wurden erfolgreich verarbeitet. Es wurden keine Änderungen seit der letzten erfolgreichen Gruppenrichtlinienverarbeitung erkannt.
-
-
---------------------
 
+Event Date/Time:  06/20/17 20:53:13
 
-Event Date/Time:  06/20/17 09:50:44
+Event ID / Type:  7045 / EVENTLOG_INFORMATION_TYPE
 
-Event ID / Type:  1129 / EVENTLOG_ERROR_TYPE
+Record #38834
 
-Record #38350
+Source: Service Control Manager
 
-Source: Microsoft-Windows-GroupPolicy
+Im System wurde ein Dienst installiert.
 
-Bei der Verarbeitung der Gruppenrichtlinie ist aufgrund fehlender Netzwerkkonnektivität mit einem Domänencontroller ein Fehler aufgetreten. Dies kann eine vorübergehende Bedingung sein. Es wird eine Erfolgsmeldung generiert, wenn die Verbindung des Computers mit dem Domänencontroller wiederhergestellt wurde und wenn die Gruppenrichtlinie erfolgreich verarbeitet wurde. Falls für mehrere Stunden keine Erfolgsmeldung angezeigt wird, wenden Sie sich an den Administrator.
+Dienstname:  Skype Updater
+Dienstdateiname:  "C:\Program Files (x86)\Skype\Updater\Updater.exe"
+Diensttyp:  Benutzermodusdienst
+Dienststarttyp:  Automatisch starten
+Dienstkonto:  LocalSystem
 
 
 --------------------
 
 
-Event Date/Time:  06/20/17 09:48:55
+Event Date/Time:  06/20/17 20:52:28
 
 Event ID / Type:  5719 / EVENTLOG_ERROR_TYPE
 
-Record #38349
+Record #38833
 
 Source: NETLOGON
 
@@ -6437,11 +530,25 @@ einem beliebigen Domänencontroller in der bestimmten Domäne ein.
 --------------------
 
 
-Event Date/Time:  06/20/17 09:48:00
+Event Date/Time:  06/20/17 20:52:09
+
+Event ID / Type:  414 / EVENTLOG_WARNING_TYPE
+
+Record #38832
+
+Source: Microsoft-Windows-TaskScheduler
+
+Der Aufgabenplanungsdienst hat eine fehlerhafte Konfiguration in Definition NT TASK\OneDrive Standalone Update Task v2gefunden. Zusätzliche Daten: Fehlerwert: %localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:50
 
 Event ID / Type:  10016 / EVENTLOG_ERROR_TYPE
 
-Record #38348
+Record #38831
 
 Source: DCOM
 
@@ -6450,11 +557,11 @@ Source: DCOM
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:57
+Event Date/Time:  06/20/17 20:49:46
 
 Event ID / Type:  7001 / EVENTLOG_INFORMATION_TYPE
 
-Record #38347
+Record #38830
 
 Source: Microsoft-Windows-Winlogon
 
@@ -6464,18 +571,18 @@ Benutzeranmeldebenachrichtigung für Programm zur Verbesserung der Benutzerfreun
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:47
+Event Date/Time:  06/20/17 20:49:13
 
 Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
 
-Record #38346
+Record #38829
 
 Source: Microsoft-Windows-Power-Troubleshooter
 
 Das System wurde aus einem Standbymodus reaktiviert.
 
-Zeit im Energiesparmodus: 2017-06-19T22:49:42.604589900Z
-Reaktivierungszeit: 2017-06-20T07:47:45.280679000Z
+Zeit im Energiesparmodus: 2017-06-20T11:27:13.053449500Z
+Reaktivierungszeit: 2017-06-20T18:49:09.569149100Z
 
 Reaktivierungsquelle: 0
 
@@ -6483,11 +590,25 @@ Reaktivierungsquelle: 0
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:13
+
+Event ID / Type:  37 / EVENTLOG_INFORMATION_TYPE
+
+Record #38828
+
+Source: Microsoft-Windows-Time-Service
+
+Der Zeitanbieter "NtpClient" empfängt derzeit gültige Zeitdaten von time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->52.166.120.77:123).
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:12
 
 Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
 
-Record #38345
+Record #38827
 
 Source: Microsoft-Windows-DNS-Client
 
@@ -6519,11 +640,83 @@ Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Ei
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:11
+
+Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
+
+Record #38826
+
+Source: Microsoft-Windows-DNS-Client
+
+Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
+ mit den folgenden Einstellungen:
+
+
+          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
+
+          Hostname: HADBELONIC
+
+          Primäres Domänensuffix: vbs
+
+          DNS-Serverliste: 
+
+            	192.168.0.1
+
+          Server, an den das Update gesendet wurde: <?>
+
+          IP-Adresse(n) :
+
+            2a02:8388:2781:f200:40f7:f28f:8e8e:4a96, 192.168.0.12
+
+Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
+
+Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:10
+
+Event ID / Type:  8016 / EVENTLOG_WARNING_TYPE
+
+Record #38825
+
+Source: Microsoft-Windows-DNS-Client
+
+Fehler beim Registrieren der Hostressourceneinträge (A oder AAAA) für den Netzwerkadapter 
+ mit den folgenden Einstellungen:
+
+
+          Adaptername: {81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}
+
+          Hostname: HADBELONIC
+
+          Primäres Domänensuffix: vbs
+
+          DNS-Serverliste: 
+
+            	192.168.0.1
+
+          Server, an den das Update gesendet wurde: <?>
+
+          IP-Adresse(n) :
+
+            2a02:8388:2781:f200:40f7:f28f:8e8e:4a96, 192.168.0.12
+
+Diese Ressourceneinträge konnten nicht registriert werden, weil die Updateanforderung auf dem DNS-Server fehlgeschlagen ist. Wahrscheinlich hat der für die Verarbeitung der Updateanforderung erforderliche DNS-Server eine Sperre auf dieser Zone, weil zurzeit eine Zonenübertragung ausgeführt wird.
+
+Sie können die DNS-Registrierung des Netzwerkadapters und der dazugehörigen Einstellungen manuell ausführen, indem Sie an der Eingabeaufforderung "ipconfig /registerdns" eingeben. Wenden Sie sich an den DNS-Server- oder Netzwerksystemadministrator, wenn das Problem weiterhin besteht.
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:09
 
 Event ID / Type:  27 / EVENTLOG_INFORMATION_TYPE
 
-Record #38344
+Record #38824
 
 Source: Microsoft-Windows-Kernel-Boot
 
@@ -6532,11 +725,11 @@ Source: Microsoft-Windows-Kernel-Boot
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:09
 
 Event ID / Type:  25 / EVENTLOG_INFORMATION_TYPE
 
-Record #38343
+Record #38823
 
 Source: Microsoft-Windows-Kernel-Boot
 
@@ -6545,11 +738,11 @@ Source: Microsoft-Windows-Kernel-Boot
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:09
 
 Event ID / Type:  32 / EVENTLOG_INFORMATION_TYPE
 
-Record #38342
+Record #38822
 
 Source: Microsoft-Windows-Kernel-Boot
 
@@ -6558,11 +751,11 @@ Source: Microsoft-Windows-Kernel-Boot
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:09
 
 Event ID / Type:  18 / EVENTLOG_INFORMATION_TYPE
 
-Record #38341
+Record #38821
 
 Source: Microsoft-Windows-Kernel-Boot
 
@@ -6571,11 +764,11 @@ Source: Microsoft-Windows-Kernel-Boot
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:45
+Event Date/Time:  06/20/17 20:49:09
 
 Event ID / Type:  30 / EVENTLOG_INFORMATION_TYPE
 
-Record #38340
+Record #38820
 
 Source: Microsoft-Windows-Kernel-Boot
 
@@ -6584,20 +777,48 @@ Source: Microsoft-Windows-Kernel-Boot
 --------------------
 
 
-Event Date/Time:  06/20/17 09:47:44
+Event Date/Time:  06/20/17 20:49:09
+
+Event ID / Type:  134 / EVENTLOG_WARNING_TYPE
+
+Record #38819
+
+Source: Microsoft-Windows-Time-Service
+
+Aufgrund eines DNS-Auflösungsfehlers auf "time.windows.com,0x9" konnte vom "NtpClient" kein manueller Peer als Zeitquelle festgelegt werden. In 15 Minuten wird ein weiterer Versuch ausgeführt und das Intervall für weitere Versuche anschließend verdoppelt. Fehler: Der angegebene Host ist unbekannt. (0x80072AF9)
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:08
 
 Event ID / Type:  1 / EVENTLOG_INFORMATION_TYPE
 
-Record #38339
+Record #38818
 
 Source: Microsoft-Windows-Kernel-General
 
-Mögliche CVE-Erkennung: 2017-06-20T07:47:44.500000000Z
-Zusätzliche Informationen: 2017-06-19T22:49:48.376292500Z
+Mögliche CVE-Erkennung: 2017-06-20T18:49:08.500000000Z
+Zusätzliche Informationen: 2017-06-20T11:27:28.031050000Z
 
-Dieses Ereignis wird generiert, wenn eine bekannte Exploit-Sicherheitslücke (2017-06-20T07:47:44.500000000Z) erkannt wird. 
+Dieses Ereignis wird generiert, wenn eine bekannte Exploit-Sicherheitslücke (2017-06-20T18:49:08.500000000Z) erkannt wird. 
 Dieses Ereignis wird durch einen Benutzermodusprozess ausgelöst.
 
+
+
+--------------------
+
+
+Event Date/Time:  06/20/17 20:49:10
+
+Event ID / Type:  8033 / EVENTLOG_INFORMATION_TYPE
+
+Record #38817
+
+Source: BROWSER
+
+Der Suchdienst hat eine Wahl auf dem Netzwerk "\Device\NetBT_Tcpip_{81DCE17E-DA22-4C58-BC16-60C1EA71F4B0}" erzwungen, da der Hauptsuchdienst beendet wurde.
 
 
 --------------------
